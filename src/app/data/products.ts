@@ -1,6 +1,6 @@
 /*
- * Copyright (c) 2026 AMSIDEL Technologies. All rights reserved.
- * Designed and developed by AMSIDEL Technologies.
+ * Copyright (c) 2026 IANEL Technologies. All rights reserved.
+ * Designed and developed by IANEL Technologies.
  */
 // The product catalogue. The ranges, products and reference sheets come from catalogue.generated.ts, which
 // tools/import_catalogue.py builds from CATALOGUE/complete-catalogue; this file adds the lookups the pages use.

@@ -9,9 +9,9 @@
     "test": "node node_modules/@angular/cli/bin/ng.js test"
   },
   "private": true,
-  "author": "AMSIDEL Technologies",
+  "author": "IANEL Technologies",
   "license": "SEE LICENSE IN LICENSE",
-  "description": "Amsidel Doors & Windows website (static Angular site). Copyright (c) 2026 AMSIDEL Technologies. All rights reserved.",
+  "description": "Amsidel Doors & Windows website (static Angular site). Copyright (c) 2026 IANEL Technologies. All rights reserved.",
   "packageManager": "npm@10.9.0",
   "dependencies": {
     "@angular/common": "^21.2.0",

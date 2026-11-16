@@ -1,6 +1,6 @@
 /*
- * Copyright (c) 2026 AMSIDEL Technologies. All rights reserved.
- * Designed and developed by AMSIDEL Technologies.
+ * Copyright (c) 2026 IANEL Technologies. All rights reserved.
+ * Designed and developed by IANEL Technologies.
  */
 // Offers shown on the website: the header's Offers button, the Offers page and the AMI chat. Add one entry per offer;
 // an offer shows from `startDate` to `endDate` (inclusive, yyyy-mm-dd) and disappears by itself afterwards.

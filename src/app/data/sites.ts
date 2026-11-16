@@ -1,6 +1,6 @@
 /*
- * Copyright (c) 2026 AMSIDEL Technologies. All rights reserved.
- * Designed and developed by AMSIDEL Technologies.
+ * Copyright (c) 2026 IANEL Technologies. All rights reserved.
+ * Designed and developed by IANEL Technologies.
  */
 // The two Amsidel websites, deployed separately. Keep this file the same in both projects
 // (amsidel-group-web and amsidel-web).
@@ -11,13 +11,13 @@ const PRODUCTION = {
   /** Amsidel Group: the solar-system landing page (amsidel-group-web). */
   group: 'https://www.amsidel.com',
   /** Amsidel Doors & Windows: the store (amsidel-web). */
-  doorsWindows: 'https://doors-windows.amsidel.com',
+  doorsWindows: 'https://www.doors-windows.amsidel.com',
 };
 
 /** On your own computer: `npm start` in each project (Doors & Windows on 4200, Group on 4201). */
 const LOCAL = {
   group: 'http://localhost:4201',
-  doorsWindows: 'http://localhost:4200',
+  doorsWindows: 'https://www.doors-windows.amsidel.com',
 };
 
 const isLocal = typeof window !== 'undefined' && ['localhost', '127.0.0.1'].includes(window.location.hostname);
