@@ -31,6 +31,9 @@ BANNER_MAX = 2400
 QUALITY_FULL = 90
 QUALITY_THUMB = 82
 
+# catalogue sections Amsidel does not sell: left out of the website entirely
+EXCLUDED_SECTIONS = {'ABS doors', 'Steel utility doors'}
+
 # group: 'doors-windows' = ranges with windows as well as doors; 'doors' = door-only ranges
 GROUP = {
     'upvc': 'doors-windows',
@@ -101,7 +104,9 @@ def main() -> None:
                 'short': SHORT[cid],
                 'group': GROUP[cid],
                 'tagline': c['tag'],
-                'description': c['intro'],
+                'description': c['intro'].replace(
+                    'designer uPVC, ABS and steel utility doors', 'designer uPVC doors'
+                ),
                 'features': c['feats'],
                 'applications': APPLICATIONS[cid],
                 'banner': f'images/banners/{cid}.webp',
@@ -110,6 +115,8 @@ def main() -> None:
 
     products, references = [], []
     for p in site['products']:
+        if p['sub'] in EXCLUDED_SECTIONS:
+            continue
         code = p['code']
         rel = f"images/catalogue/{p['cat']}/{code.lower()}.webp"
         thumb = f"images/catalogue/{p['cat']}/{code.lower()}-sm.webp"

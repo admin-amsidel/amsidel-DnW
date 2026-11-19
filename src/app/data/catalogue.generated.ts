@@ -13,7 +13,7 @@ export const GENERATED_CATEGORIES: CatalogueCategory[] = [
     "short": "uPVC",
     "group": "doors-windows",
     "tagline": "Quiet, sealed and low-maintenance",
-    "description": "Multi-chamber, lead-free uPVC profiles with galvanised steel reinforcement and EPDM gaskets keep out dust, rain and street noise. They never need painting and stay true to shape through tropical heat and monsoon. The range also includes designer uPVC, ABS and steel utility doors.",
+    "description": "Multi-chamber, lead-free uPVC profiles with galvanised steel reinforcement and EPDM gaskets keep out dust, rain and street noise. They never need painting and stay true to shape through tropical heat and monsoon. The range also includes designer uPVC doors.",
     "features": [
       "Lead-free, UV-stabilised profiles",
       "Sliding, casement, tilt & turn, slide & fold",
@@ -222,8 +222,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "System types",
   "image": "images/catalogue/upvc/up-101.webp",
   "thumb": "images/catalogue/upvc/up-101-sm.webp",
-  "w": 347,
-  "h": 265,
+  "w": 1436,
+  "h": 1095,
   "details": [
    [
     "Use",
@@ -239,8 +239,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "System types",
   "image": "images/catalogue/upvc/up-102.webp",
   "thumb": "images/catalogue/upvc/up-102-sm.webp",
-  "w": 348,
-  "h": 266,
+  "w": 1435,
+  "h": 1096,
   "details": [
    [
     "Use",
@@ -256,8 +256,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "System types",
   "image": "images/catalogue/upvc/up-103.webp",
   "thumb": "images/catalogue/upvc/up-103-sm.webp",
-  "w": 348,
-  "h": 265,
+  "w": 1437,
+  "h": 1094,
   "details": [
    [
     "Use",
@@ -273,8 +273,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "System types",
   "image": "images/catalogue/upvc/up-104.webp",
   "thumb": "images/catalogue/upvc/up-104-sm.webp",
-  "w": 348,
-  "h": 267,
+  "w": 1437,
+  "h": 1095,
   "details": [
    [
     "Use",
@@ -290,8 +290,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Ventilators",
   "image": "images/catalogue/upvc/up-111.webp",
   "thumb": "images/catalogue/upvc/up-111-sm.webp",
-  "w": 208,
-  "h": 212,
+  "w": 1199,
+  "h": 1312,
   "details": [
    [
     "Type",
@@ -307,8 +307,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Ventilators",
   "image": "images/catalogue/upvc/up-112.webp",
   "thumb": "images/catalogue/upvc/up-112-sm.webp",
-  "w": 207,
-  "h": 212,
+  "w": 1254,
+  "h": 1254,
   "details": [
    [
     "Type",
@@ -324,8 +324,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Ventilators",
   "image": "images/catalogue/upvc/up-113.webp",
   "thumb": "images/catalogue/upvc/up-113-sm.webp",
-  "w": 208,
-  "h": 212,
+  "w": 1152,
+  "h": 1366,
   "details": [
    [
     "Type",
@@ -341,8 +341,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Designer uPVC doors",
   "image": "images/catalogue/upvc/up-121.webp",
   "thumb": "images/catalogue/upvc/up-121-sm.webp",
-  "w": 224,
-  "h": 462,
+  "w": 389,
+  "h": 649,
   "details": [
    [
     "Material",
@@ -358,8 +358,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Designer uPVC doors",
   "image": "images/catalogue/upvc/up-122.webp",
   "thumb": "images/catalogue/upvc/up-122-sm.webp",
-  "w": 221,
-  "h": 461,
+  "w": 359,
+  "h": 655,
   "details": [
    [
     "Material",
@@ -375,8 +375,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Designer uPVC doors",
   "image": "images/catalogue/upvc/up-123.webp",
   "thumb": "images/catalogue/upvc/up-123-sm.webp",
-  "w": 224,
-  "h": 463,
+  "w": 367,
+  "h": 647,
   "details": [
    [
     "Material",
@@ -392,8 +392,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Designer uPVC doors",
   "image": "images/catalogue/upvc/up-124.webp",
   "thumb": "images/catalogue/upvc/up-124-sm.webp",
-  "w": 224,
-  "h": 462,
+  "w": 360,
+  "h": 652,
   "details": [
    [
     "Material",
@@ -409,8 +409,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Designer uPVC doors",
   "image": "images/catalogue/upvc/up-125.webp",
   "thumb": "images/catalogue/upvc/up-125-sm.webp",
-  "w": 223,
-  "h": 460,
+  "w": 367,
+  "h": 640,
   "details": [
    [
     "Material",
@@ -426,8 +426,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Designer uPVC doors",
   "image": "images/catalogue/upvc/up-126.webp",
   "thumb": "images/catalogue/upvc/up-126-sm.webp",
-  "w": 245,
-  "h": 477,
+  "w": 352,
+  "h": 630,
   "details": [
    [
     "Material",
@@ -443,8 +443,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Designer uPVC doors",
   "image": "images/catalogue/upvc/up-127.webp",
   "thumb": "images/catalogue/upvc/up-127-sm.webp",
-  "w": 224,
-  "h": 460,
+  "w": 358,
+  "h": 638,
   "details": [
    [
     "Material",
@@ -460,250 +460,12 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Designer uPVC doors",
   "image": "images/catalogue/upvc/up-128.webp",
   "thumb": "images/catalogue/upvc/up-128-sm.webp",
-  "w": 223,
-  "h": 462,
+  "w": 347,
+  "h": 642,
   "details": [
    [
     "Material",
     "uPVC"
-   ]
-  ]
- },
- {
-  "slug": "up-131",
-  "code": "UP-131",
-  "name": "ABS Door 01",
-  "category": "upvc",
-  "sub": "ABS doors",
-  "image": "images/catalogue/upvc/up-131.webp",
-  "thumb": "images/catalogue/upvc/up-131-sm.webp",
-  "w": 215,
-  "h": 466,
-  "details": [
-   [
-    "Material",
-    "ABS"
-   ]
-  ]
- },
- {
-  "slug": "up-132",
-  "code": "UP-132",
-  "name": "ABS Door 02",
-  "category": "upvc",
-  "sub": "ABS doors",
-  "image": "images/catalogue/upvc/up-132.webp",
-  "thumb": "images/catalogue/upvc/up-132-sm.webp",
-  "w": 219,
-  "h": 469,
-  "details": [
-   [
-    "Material",
-    "ABS"
-   ]
-  ]
- },
- {
-  "slug": "up-133",
-  "code": "UP-133",
-  "name": "ABS Door 03",
-  "category": "upvc",
-  "sub": "ABS doors",
-  "image": "images/catalogue/upvc/up-133.webp",
-  "thumb": "images/catalogue/upvc/up-133-sm.webp",
-  "w": 206,
-  "h": 468,
-  "details": [
-   [
-    "Material",
-    "ABS"
-   ]
-  ]
- },
- {
-  "slug": "up-134",
-  "code": "UP-134",
-  "name": "ABS Door 04",
-  "category": "upvc",
-  "sub": "ABS doors",
-  "image": "images/catalogue/upvc/up-134.webp",
-  "thumb": "images/catalogue/upvc/up-134-sm.webp",
-  "w": 218,
-  "h": 468,
-  "details": [
-   [
-    "Material",
-    "ABS"
-   ]
-  ]
- },
- {
-  "slug": "up-135",
-  "code": "UP-135",
-  "name": "ABS Door 05",
-  "category": "upvc",
-  "sub": "ABS doors",
-  "image": "images/catalogue/upvc/up-135.webp",
-  "thumb": "images/catalogue/upvc/up-135-sm.webp",
-  "w": 219,
-  "h": 465,
-  "details": [
-   [
-    "Material",
-    "ABS"
-   ]
-  ]
- },
- {
-  "slug": "up-136",
-  "code": "UP-136",
-  "name": "ABS Door 06",
-  "category": "upvc",
-  "sub": "ABS doors",
-  "image": "images/catalogue/upvc/up-136.webp",
-  "thumb": "images/catalogue/upvc/up-136-sm.webp",
-  "w": 206,
-  "h": 465,
-  "details": [
-   [
-    "Material",
-    "ABS"
-   ]
-  ]
- },
- {
-  "slug": "up-137",
-  "code": "UP-137",
-  "name": "ABS Door 07",
-  "category": "upvc",
-  "sub": "ABS doors",
-  "image": "images/catalogue/upvc/up-137.webp",
-  "thumb": "images/catalogue/upvc/up-137-sm.webp",
-  "w": 218,
-  "h": 466,
-  "details": [
-   [
-    "Material",
-    "ABS"
-   ]
-  ]
- },
- {
-  "slug": "up-141",
-  "code": "UP-141",
-  "name": "Steel Utility Door 01",
-  "category": "upvc",
-  "sub": "Steel utility doors",
-  "image": "images/catalogue/upvc/up-141.webp",
-  "thumb": "images/catalogue/upvc/up-141-sm.webp",
-  "w": 202,
-  "h": 467,
-  "details": [
-   [
-    "Material",
-    "Galvanised steel"
-   ]
-  ]
- },
- {
-  "slug": "up-142",
-  "code": "UP-142",
-  "name": "Steel Utility Door 02",
-  "category": "upvc",
-  "sub": "Steel utility doors",
-  "image": "images/catalogue/upvc/up-142.webp",
-  "thumb": "images/catalogue/upvc/up-142-sm.webp",
-  "w": 219,
-  "h": 467,
-  "details": [
-   [
-    "Material",
-    "Galvanised steel"
-   ]
-  ]
- },
- {
-  "slug": "up-143",
-  "code": "UP-143",
-  "name": "Steel Utility Door 03",
-  "category": "upvc",
-  "sub": "Steel utility doors",
-  "image": "images/catalogue/upvc/up-143.webp",
-  "thumb": "images/catalogue/upvc/up-143-sm.webp",
-  "w": 217,
-  "h": 468,
-  "details": [
-   [
-    "Material",
-    "Galvanised steel"
-   ]
-  ]
- },
- {
-  "slug": "up-144",
-  "code": "UP-144",
-  "name": "Steel Utility Door 04",
-  "category": "upvc",
-  "sub": "Steel utility doors",
-  "image": "images/catalogue/upvc/up-144.webp",
-  "thumb": "images/catalogue/upvc/up-144-sm.webp",
-  "w": 215,
-  "h": 470,
-  "details": [
-   [
-    "Material",
-    "Galvanised steel"
-   ]
-  ]
- },
- {
-  "slug": "up-145",
-  "code": "UP-145",
-  "name": "Steel Utility Door 05",
-  "category": "upvc",
-  "sub": "Steel utility doors",
-  "image": "images/catalogue/upvc/up-145.webp",
-  "thumb": "images/catalogue/upvc/up-145-sm.webp",
-  "w": 370,
-  "h": 498,
-  "details": [
-   [
-    "Material",
-    "Galvanised steel"
-   ]
-  ]
- },
- {
-  "slug": "up-146",
-  "code": "UP-146",
-  "name": "Steel Utility Door 06",
-  "category": "upvc",
-  "sub": "Steel utility doors",
-  "image": "images/catalogue/upvc/up-146.webp",
-  "thumb": "images/catalogue/upvc/up-146-sm.webp",
-  "w": 272,
-  "h": 501,
-  "details": [
-   [
-    "Material",
-    "Galvanised steel"
-   ]
-  ]
- },
- {
-  "slug": "up-147",
-  "code": "UP-147",
-  "name": "Steel Utility Door 07",
-  "category": "upvc",
-  "sub": "Steel utility doors",
-  "image": "images/catalogue/upvc/up-147.webp",
-  "thumb": "images/catalogue/upvc/up-147-sm.webp",
-  "w": 284,
-  "h": 499,
-  "details": [
-   [
-    "Material",
-    "Galvanised steel"
    ]
   ]
  },
@@ -715,8 +477,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-101.webp",
   "thumb": "images/catalogue/aluminium/al-101-sm.webp",
-  "w": 1151,
-  "h": 477,
+  "w": 1774,
+  "h": 887,
   "details": [
    [
     "System",
@@ -740,8 +502,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-102.webp",
   "thumb": "images/catalogue/aluminium/al-102-sm.webp",
-  "w": 1180,
-  "h": 518,
+  "w": 1672,
+  "h": 941,
   "details": [
    [
     "System",
@@ -765,8 +527,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-103.webp",
   "thumb": "images/catalogue/aluminium/al-103-sm.webp",
-  "w": 1182,
-  "h": 461,
+  "w": 1877,
+  "h": 838,
   "details": [
    [
     "System",
@@ -790,8 +552,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-104.webp",
   "thumb": "images/catalogue/aluminium/al-104-sm.webp",
-  "w": 1223,
-  "h": 517,
+  "w": 1881,
+  "h": 836,
   "details": [
    [
     "System",
@@ -815,8 +577,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-105.webp",
   "thumb": "images/catalogue/aluminium/al-105-sm.webp",
-  "w": 1037,
-  "h": 476,
+  "w": 1851,
+  "h": 850,
   "details": [
    [
     "System",
@@ -840,8 +602,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-106.webp",
   "thumb": "images/catalogue/aluminium/al-106-sm.webp",
-  "w": 1182,
-  "h": 461,
+  "w": 1846,
+  "h": 852,
   "details": [
    [
     "System",
@@ -865,8 +627,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-107.webp",
   "thumb": "images/catalogue/aluminium/al-107-sm.webp",
-  "w": 1175,
-  "h": 549,
+  "w": 1835,
+  "h": 857,
   "details": [
    [
     "System",
@@ -890,8 +652,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-108.webp",
   "thumb": "images/catalogue/aluminium/al-108-sm.webp",
-  "w": 1182,
-  "h": 461,
+  "w": 1843,
+  "h": 853,
   "details": [
    [
     "System",
@@ -915,8 +677,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-109.webp",
   "thumb": "images/catalogue/aluminium/al-109-sm.webp",
-  "w": 1180,
-  "h": 441,
+  "w": 1821,
+  "h": 864,
   "details": [
    [
     "System",
@@ -940,8 +702,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-110.webp",
   "thumb": "images/catalogue/aluminium/al-110-sm.webp",
-  "w": 916,
-  "h": 412,
+  "w": 1774,
+  "h": 887,
   "details": [
    [
     "System",
@@ -965,8 +727,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-111.webp",
   "thumb": "images/catalogue/aluminium/al-111-sm.webp",
-  "w": 1183,
-  "h": 435,
+  "w": 1774,
+  "h": 887,
   "details": [
    [
     "System",
@@ -990,8 +752,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-112.webp",
   "thumb": "images/catalogue/aluminium/al-112-sm.webp",
-  "w": 1182,
-  "h": 441,
+  "w": 1834,
+  "h": 858,
   "details": [
    [
     "System",
@@ -1015,8 +777,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Window & door series",
   "image": "images/catalogue/aluminium/al-113.webp",
   "thumb": "images/catalogue/aluminium/al-113-sm.webp",
-  "w": 1181,
-  "h": 404,
+  "w": 1942,
+  "h": 809,
   "details": [
    [
     "System",
@@ -1040,8 +802,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-201.webp",
   "thumb": "images/catalogue/aluminium/al-201-sm.webp",
-  "w": 410,
-  "h": 410,
+  "w": 1254,
+  "h": 1254,
   "details": []
  },
  {
@@ -1052,8 +814,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-202.webp",
   "thumb": "images/catalogue/aluminium/al-202-sm.webp",
-  "w": 408,
-  "h": 408,
+  "w": 1254,
+  "h": 1254,
   "details": []
  },
  {
@@ -1064,8 +826,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-203.webp",
   "thumb": "images/catalogue/aluminium/al-203-sm.webp",
-  "w": 410,
-  "h": 412,
+  "w": 1254,
+  "h": 1254,
   "details": []
  },
  {
@@ -1076,8 +838,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-204.webp",
   "thumb": "images/catalogue/aluminium/al-204-sm.webp",
-  "w": 410,
-  "h": 408,
+  "w": 1254,
+  "h": 1254,
   "details": []
  },
  {
@@ -1088,8 +850,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-205.webp",
   "thumb": "images/catalogue/aluminium/al-205-sm.webp",
-  "w": 410,
-  "h": 410,
+  "w": 1254,
+  "h": 1254,
   "details": []
  },
  {
@@ -1100,8 +862,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-206.webp",
   "thumb": "images/catalogue/aluminium/al-206-sm.webp",
-  "w": 410,
-  "h": 410,
+  "w": 1254,
+  "h": 1254,
   "details": []
  },
  {
@@ -1112,8 +874,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-207.webp",
   "thumb": "images/catalogue/aluminium/al-207-sm.webp",
-  "w": 410,
-  "h": 410,
+  "w": 1254,
+  "h": 1254,
   "details": []
  },
  {
@@ -1124,8 +886,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-208.webp",
   "thumb": "images/catalogue/aluminium/al-208-sm.webp",
-  "w": 410,
-  "h": 404,
+  "w": 1268,
+  "h": 1241,
   "details": []
  },
  {
@@ -1136,8 +898,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-209.webp",
   "thumb": "images/catalogue/aluminium/al-209-sm.webp",
-  "w": 410,
-  "h": 412,
+  "w": 1254,
+  "h": 1254,
   "details": []
  },
  {
@@ -1148,8 +910,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-210.webp",
   "thumb": "images/catalogue/aluminium/al-210-sm.webp",
-  "w": 484,
-  "h": 630,
+  "w": 1099,
+  "h": 1431,
   "details": []
  },
  {
@@ -1160,8 +922,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Special systems & interiors",
   "image": "images/catalogue/aluminium/al-211.webp",
   "thumb": "images/catalogue/aluminium/al-211-sm.webp",
-  "w": 1154,
-  "h": 632,
+  "w": 1695,
+  "h": 928,
   "details": []
  },
  {
@@ -4088,8 +3850,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-101.webp",
   "thumb": "images/catalogue/skin/sk-101-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -4105,8 +3867,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-102.webp",
   "thumb": "images/catalogue/skin/sk-102-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -4122,8 +3884,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-103.webp",
   "thumb": "images/catalogue/skin/sk-103-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -4139,8 +3901,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-104.webp",
   "thumb": "images/catalogue/skin/sk-104-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -4156,8 +3918,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-105.webp",
   "thumb": "images/catalogue/skin/sk-105-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -4173,8 +3935,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-106.webp",
   "thumb": "images/catalogue/skin/sk-106-sm.webp",
-  "w": 414,
-  "h": 769,
+  "w": 1292,
+  "h": 2400,
   "details": [
    [
     "Type",
@@ -4194,8 +3956,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-107.webp",
   "thumb": "images/catalogue/skin/sk-107-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -4211,8 +3973,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-108.webp",
   "thumb": "images/catalogue/skin/sk-108-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -4228,8 +3990,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-109.webp",
   "thumb": "images/catalogue/skin/sk-109-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -4245,8 +4007,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-110.webp",
   "thumb": "images/catalogue/skin/sk-110-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -4262,8 +4024,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-111.webp",
   "thumb": "images/catalogue/skin/sk-111-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -4279,8 +4041,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded panel doors",
   "image": "images/catalogue/skin/sk-112.webp",
   "thumb": "images/catalogue/skin/sk-112-sm.webp",
-  "w": 414,
-  "h": 769,
+  "w": 1292,
+  "h": 2400,
   "details": [
    [
     "Type",
@@ -4300,8 +4062,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-101.webp",
   "thumb": "images/catalogue/membrane/mb-101-sm.webp",
-  "w": 254,
-  "h": 553,
+  "w": 442,
+  "h": 887,
   "details": []
  },
  {
@@ -4312,8 +4074,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-102.webp",
   "thumb": "images/catalogue/membrane/mb-102-sm.webp",
-  "w": 253,
-  "h": 553,
+  "w": 452,
+  "h": 887,
   "details": []
  },
  {
@@ -4324,8 +4086,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-103.webp",
   "thumb": "images/catalogue/membrane/mb-103-sm.webp",
-  "w": 443,
-  "h": 970,
+  "w": 439,
+  "h": 887,
   "details": []
  },
  {
@@ -4336,8 +4098,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-104.webp",
   "thumb": "images/catalogue/membrane/mb-104-sm.webp",
-  "w": 505,
-  "h": 1109,
+  "w": 449,
+  "h": 887,
   "details": []
  },
  {
@@ -4348,8 +4110,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-105.webp",
   "thumb": "images/catalogue/membrane/mb-105-sm.webp",
-  "w": 184,
-  "h": 399,
+  "w": 515,
+  "h": 731,
   "details": []
  },
  {
@@ -4360,8 +4122,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-106.webp",
   "thumb": "images/catalogue/membrane/mb-106-sm.webp",
-  "w": 386,
-  "h": 832,
+  "w": 515,
+  "h": 735,
   "details": []
  },
  {
@@ -4372,8 +4134,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-107.webp",
   "thumb": "images/catalogue/membrane/mb-107-sm.webp",
-  "w": 381,
-  "h": 818,
+  "w": 510,
+  "h": 801,
   "details": []
  },
  {
@@ -4384,8 +4146,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-108.webp",
   "thumb": "images/catalogue/membrane/mb-108-sm.webp",
-  "w": 252,
-  "h": 547,
+  "w": 514,
+  "h": 804,
   "details": []
  },
  {
@@ -4396,8 +4158,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-109.webp",
   "thumb": "images/catalogue/membrane/mb-109-sm.webp",
-  "w": 253,
-  "h": 548,
+  "w": 513,
+  "h": 776,
   "details": []
  },
  {
@@ -4408,8 +4170,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-110.webp",
   "thumb": "images/catalogue/membrane/mb-110-sm.webp",
-  "w": 383,
-  "h": 836,
+  "w": 505,
+  "h": 766,
   "details": []
  },
  {
@@ -4420,8 +4182,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-111.webp",
   "thumb": "images/catalogue/membrane/mb-111-sm.webp",
-  "w": 382,
-  "h": 843,
+  "w": 510,
+  "h": 768,
   "details": []
  },
  {
@@ -4432,8 +4194,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-112.webp",
   "thumb": "images/catalogue/membrane/mb-112-sm.webp",
-  "w": 383,
-  "h": 843,
+  "w": 509,
+  "h": 774,
   "details": []
  },
  {
@@ -4444,8 +4206,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-113.webp",
   "thumb": "images/catalogue/membrane/mb-113-sm.webp",
-  "w": 382,
-  "h": 820,
+  "w": 510,
+  "h": 774,
   "details": []
  },
  {
@@ -4456,8 +4218,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-114.webp",
   "thumb": "images/catalogue/membrane/mb-114-sm.webp",
-  "w": 383,
-  "h": 846,
+  "w": 515,
+  "h": 763,
   "details": []
  },
  {
@@ -4468,8 +4230,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-115.webp",
   "thumb": "images/catalogue/membrane/mb-115-sm.webp",
-  "w": 381,
-  "h": 831,
+  "w": 513,
+  "h": 767,
   "details": []
  },
  {
@@ -4480,8 +4242,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-116.webp",
   "thumb": "images/catalogue/membrane/mb-116-sm.webp",
-  "w": 383,
-  "h": 835,
+  "w": 511,
+  "h": 769,
   "details": []
  },
  {
@@ -4492,8 +4254,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-117.webp",
   "thumb": "images/catalogue/membrane/mb-117-sm.webp",
-  "w": 383,
-  "h": 834,
+  "w": 508,
+  "h": 742,
   "details": []
  },
  {
@@ -4504,8 +4266,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-118.webp",
   "thumb": "images/catalogue/membrane/mb-118-sm.webp",
-  "w": 382,
-  "h": 812,
+  "w": 508,
+  "h": 734,
   "details": []
  },
  {
@@ -4516,8 +4278,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-119.webp",
   "thumb": "images/catalogue/membrane/mb-119-sm.webp",
-  "w": 334,
-  "h": 736,
+  "w": 517,
+  "h": 802,
   "details": []
  },
  {
@@ -4528,8 +4290,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-120.webp",
   "thumb": "images/catalogue/membrane/mb-120-sm.webp",
-  "w": 381,
-  "h": 822,
+  "w": 512,
+  "h": 802,
   "details": []
  },
  {
@@ -4540,8 +4302,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-121.webp",
   "thumb": "images/catalogue/membrane/mb-121-sm.webp",
-  "w": 254,
-  "h": 551,
+  "w": 510,
+  "h": 769,
   "details": []
  },
  {
@@ -4552,8 +4314,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-122.webp",
   "thumb": "images/catalogue/membrane/mb-122-sm.webp",
-  "w": 254,
-  "h": 551,
+  "w": 516,
+  "h": 762,
   "details": []
  },
  {
@@ -4564,8 +4326,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-123.webp",
   "thumb": "images/catalogue/membrane/mb-123-sm.webp",
-  "w": 254,
-  "h": 551,
+  "w": 510,
+  "h": 773,
   "details": []
  },
  {
@@ -4576,8 +4338,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-124.webp",
   "thumb": "images/catalogue/membrane/mb-124-sm.webp",
-  "w": 254,
-  "h": 551,
+  "w": 508,
+  "h": 771,
   "details": []
  },
  {
@@ -4588,8 +4350,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-125.webp",
   "thumb": "images/catalogue/membrane/mb-125-sm.webp",
-  "w": 254,
-  "h": 552,
+  "w": 510,
+  "h": 765,
   "details": []
  },
  {
@@ -4600,8 +4362,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-126.webp",
   "thumb": "images/catalogue/membrane/mb-126-sm.webp",
-  "w": 254,
-  "h": 546,
+  "w": 510,
+  "h": 765,
   "details": []
  },
  {
@@ -4612,8 +4374,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-127.webp",
   "thumb": "images/catalogue/membrane/mb-127-sm.webp",
-  "w": 254,
-  "h": 547,
+  "w": 515,
+  "h": 772,
   "details": []
  },
  {
@@ -4624,8 +4386,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-128.webp",
   "thumb": "images/catalogue/membrane/mb-128-sm.webp",
-  "w": 405,
-  "h": 879,
+  "w": 508,
+  "h": 768,
   "details": []
  },
  {
@@ -4636,8 +4398,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-129.webp",
   "thumb": "images/catalogue/membrane/mb-129-sm.webp",
-  "w": 254,
-  "h": 546,
+  "w": 513,
+  "h": 760,
   "details": []
  },
  {
@@ -4648,8 +4410,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-130.webp",
   "thumb": "images/catalogue/membrane/mb-130-sm.webp",
-  "w": 378,
-  "h": 812,
+  "w": 510,
+  "h": 762,
   "details": []
  },
  {
@@ -4660,8 +4422,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-131.webp",
   "thumb": "images/catalogue/membrane/mb-131-sm.webp",
-  "w": 250,
-  "h": 551,
+  "w": 508,
+  "h": 773,
   "details": []
  },
  {
@@ -4672,8 +4434,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-132.webp",
   "thumb": "images/catalogue/membrane/mb-132-sm.webp",
-  "w": 373,
-  "h": 823,
+  "w": 510,
+  "h": 762,
   "details": []
  },
  {
@@ -4684,8 +4446,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-133.webp",
   "thumb": "images/catalogue/membrane/mb-133-sm.webp",
-  "w": 251,
-  "h": 553,
+  "w": 521,
+  "h": 771,
   "details": []
  },
  {
@@ -4696,8 +4458,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-134.webp",
   "thumb": "images/catalogue/membrane/mb-134-sm.webp",
-  "w": 250,
-  "h": 552,
+  "w": 516,
+  "h": 768,
   "details": []
  },
  {
@@ -4708,8 +4470,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-135.webp",
   "thumb": "images/catalogue/membrane/mb-135-sm.webp",
-  "w": 334,
-  "h": 726,
+  "w": 510,
+  "h": 765,
   "details": []
  },
  {
@@ -4720,8 +4482,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-136.webp",
   "thumb": "images/catalogue/membrane/mb-136-sm.webp",
-  "w": 334,
-  "h": 735,
+  "w": 518,
+  "h": 776,
   "details": []
  },
  {
@@ -4732,8 +4494,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-137.webp",
   "thumb": "images/catalogue/membrane/mb-137-sm.webp",
-  "w": 335,
-  "h": 732,
+  "w": 512,
+  "h": 768,
   "details": []
  },
  {
@@ -4744,8 +4506,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-138.webp",
   "thumb": "images/catalogue/membrane/mb-138-sm.webp",
-  "w": 372,
-  "h": 809,
+  "w": 513,
+  "h": 760,
   "details": []
  },
  {
@@ -4756,8 +4518,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-139.webp",
   "thumb": "images/catalogue/membrane/mb-139-sm.webp",
-  "w": 181,
-  "h": 391,
+  "w": 510,
+  "h": 771,
   "details": []
  },
  {
@@ -4768,8 +4530,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-140.webp",
   "thumb": "images/catalogue/membrane/mb-140-sm.webp",
-  "w": 255,
-  "h": 552,
+  "w": 513,
+  "h": 774,
   "details": []
  },
  {
@@ -4780,8 +4542,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-141.webp",
   "thumb": "images/catalogue/membrane/mb-141-sm.webp",
-  "w": 339,
-  "h": 747,
+  "w": 518,
+  "h": 765,
   "details": []
  },
  {
@@ -4792,8 +4554,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-142.webp",
   "thumb": "images/catalogue/membrane/mb-142-sm.webp",
-  "w": 372,
-  "h": 822,
+  "w": 513,
+  "h": 766,
   "details": []
  },
  {
@@ -4804,8 +4566,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-143.webp",
   "thumb": "images/catalogue/membrane/mb-143-sm.webp",
-  "w": 370,
-  "h": 818,
+  "w": 515,
+  "h": 768,
   "details": []
  },
  {
@@ -4816,8 +4578,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-144.webp",
   "thumb": "images/catalogue/membrane/mb-144-sm.webp",
-  "w": 374,
-  "h": 825,
+  "w": 512,
+  "h": 775,
   "details": []
  },
  {
@@ -4828,8 +4590,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-145.webp",
   "thumb": "images/catalogue/membrane/mb-145-sm.webp",
-  "w": 373,
-  "h": 825,
+  "w": 505,
+  "h": 765,
   "details": []
  },
  {
@@ -4840,8 +4602,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-146.webp",
   "thumb": "images/catalogue/membrane/mb-146-sm.webp",
-  "w": 421,
-  "h": 915,
+  "w": 515,
+  "h": 771,
   "details": []
  },
  {
@@ -4852,8 +4614,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-147.webp",
   "thumb": "images/catalogue/membrane/mb-147-sm.webp",
-  "w": 249,
-  "h": 538,
+  "w": 510,
+  "h": 771,
   "details": []
  },
  {
@@ -4864,8 +4626,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-148.webp",
   "thumb": "images/catalogue/membrane/mb-148-sm.webp",
-  "w": 336,
-  "h": 726,
+  "w": 516,
+  "h": 772,
   "details": []
  },
  {
@@ -4876,8 +4638,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-149.webp",
   "thumb": "images/catalogue/membrane/mb-149-sm.webp",
-  "w": 182,
-  "h": 391,
+  "w": 518,
+  "h": 765,
   "details": []
  },
  {
@@ -4888,8 +4650,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-150.webp",
   "thumb": "images/catalogue/membrane/mb-150-sm.webp",
-  "w": 369,
-  "h": 780,
+  "w": 513,
+  "h": 769,
   "details": []
  },
  {
@@ -4900,8 +4662,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-151.webp",
   "thumb": "images/catalogue/membrane/mb-151-sm.webp",
-  "w": 381,
-  "h": 810,
+  "w": 514,
+  "h": 772,
   "details": []
  },
  {
@@ -4912,8 +4674,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-152.webp",
   "thumb": "images/catalogue/membrane/mb-152-sm.webp",
-  "w": 249,
-  "h": 549,
+  "w": 516,
+  "h": 772,
   "details": []
  },
  {
@@ -4924,8 +4686,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-153.webp",
   "thumb": "images/catalogue/membrane/mb-153-sm.webp",
-  "w": 250,
-  "h": 549,
+  "w": 515,
+  "h": 767,
   "details": []
  },
  {
@@ -4936,8 +4698,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-154.webp",
   "thumb": "images/catalogue/membrane/mb-154-sm.webp",
-  "w": 374,
-  "h": 826,
+  "w": 516,
+  "h": 774,
   "details": []
  },
  {
@@ -4948,8 +4710,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-155.webp",
   "thumb": "images/catalogue/membrane/mb-155-sm.webp",
-  "w": 196,
-  "h": 430,
+  "w": 515,
+  "h": 768,
   "details": []
  },
  {
@@ -4960,8 +4722,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-156.webp",
   "thumb": "images/catalogue/membrane/mb-156-sm.webp",
-  "w": 372,
-  "h": 810,
+  "w": 515,
+  "h": 774,
   "details": []
  },
  {
@@ -4972,8 +4734,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-157.webp",
   "thumb": "images/catalogue/membrane/mb-157-sm.webp",
-  "w": 185,
-  "h": 392,
+  "w": 517,
+  "h": 765,
   "details": []
  },
  {
@@ -4984,8 +4746,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-158.webp",
   "thumb": "images/catalogue/membrane/mb-158-sm.webp",
-  "w": 184,
-  "h": 392,
+  "w": 514,
+  "h": 765,
   "details": []
  },
  {
@@ -4996,8 +4758,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-159.webp",
   "thumb": "images/catalogue/membrane/mb-159-sm.webp",
-  "w": 208,
-  "h": 440,
+  "w": 509,
+  "h": 768,
   "details": []
  },
  {
@@ -5008,8 +4770,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-160.webp",
   "thumb": "images/catalogue/membrane/mb-160-sm.webp",
-  "w": 208,
-  "h": 440,
+  "w": 518,
+  "h": 771,
   "details": []
  },
  {
@@ -5020,8 +4782,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane doors",
   "image": "images/catalogue/membrane/mb-161.webp",
   "thumb": "images/catalogue/membrane/mb-161-sm.webp",
-  "w": 207,
-  "h": 447,
+  "w": 548,
+  "h": 717,
   "details": []
  },
  {
@@ -5032,8 +4794,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane double doors",
   "image": "images/catalogue/membrane/mb-162.webp",
   "thumb": "images/catalogue/membrane/mb-162-sm.webp",
-  "w": 414,
-  "h": 725,
+  "w": 539,
+  "h": 722,
   "details": [
    [
     "Type",
@@ -5049,8 +4811,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane double doors",
   "image": "images/catalogue/membrane/mb-163.webp",
   "thumb": "images/catalogue/membrane/mb-163-sm.webp",
-  "w": 473,
-  "h": 828,
+  "w": 538,
+  "h": 728,
   "details": [
    [
     "Type",
@@ -5066,8 +4828,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane double doors",
   "image": "images/catalogue/membrane/mb-164.webp",
   "thumb": "images/catalogue/membrane/mb-164-sm.webp",
-  "w": 473,
-  "h": 828,
+  "w": 538,
+  "h": 729,
   "details": [
    [
     "Type",
@@ -5083,8 +4845,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane double doors",
   "image": "images/catalogue/membrane/mb-165.webp",
   "thumb": "images/catalogue/membrane/mb-165-sm.webp",
-  "w": 414,
-  "h": 726,
+  "w": 510,
+  "h": 771,
   "details": [
    [
     "Type",
@@ -5100,8 +4862,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "SR membrane doors",
   "image": "images/catalogue/membrane/mb-166.webp",
   "thumb": "images/catalogue/membrane/mb-166-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 513,
+  "h": 768,
   "details": []
  },
  {
@@ -5112,8 +4874,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "SR membrane doors",
   "image": "images/catalogue/membrane/mb-167.webp",
   "thumb": "images/catalogue/membrane/mb-167-sm.webp",
-  "w": 350,
-  "h": 819,
+  "w": 518,
+  "h": 771,
   "details": []
  },
  {
@@ -5124,8 +4886,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "SR membrane doors",
   "image": "images/catalogue/membrane/mb-168.webp",
   "thumb": "images/catalogue/membrane/mb-168-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 508,
+  "h": 772,
   "details": []
  },
  {
@@ -5136,8 +4898,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "SR membrane doors",
   "image": "images/catalogue/membrane/mb-169.webp",
   "thumb": "images/catalogue/membrane/mb-169-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 509,
+  "h": 750,
   "details": []
  },
  {
@@ -5148,8 +4910,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "SR membrane doors",
   "image": "images/catalogue/membrane/mb-170.webp",
   "thumb": "images/catalogue/membrane/mb-170-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 508,
+  "h": 753,
   "details": []
  },
  {
@@ -5160,8 +4922,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "SR membrane doors",
   "image": "images/catalogue/membrane/mb-171.webp",
   "thumb": "images/catalogue/membrane/mb-171-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 517,
+  "h": 789,
   "details": []
  },
  {
@@ -5172,8 +4934,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "SR membrane doors",
   "image": "images/catalogue/membrane/mb-172.webp",
   "thumb": "images/catalogue/membrane/mb-172-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 505,
+  "h": 767,
   "details": []
  },
  {
@@ -5184,8 +4946,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-101.webp",
   "thumb": "images/catalogue/laminated/lm-101-sm.webp",
-  "w": 383,
-  "h": 833,
+  "w": 339,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5201,8 +4963,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-102.webp",
   "thumb": "images/catalogue/laminated/lm-102-sm.webp",
-  "w": 383,
-  "h": 833,
+  "w": 335,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5218,8 +4980,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-103.webp",
   "thumb": "images/catalogue/laminated/lm-103-sm.webp",
-  "w": 383,
-  "h": 833,
+  "w": 328,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5235,8 +4997,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-104.webp",
   "thumb": "images/catalogue/laminated/lm-104-sm.webp",
-  "w": 383,
-  "h": 833,
+  "w": 332,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5252,8 +5014,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-105.webp",
   "thumb": "images/catalogue/laminated/lm-105-sm.webp",
-  "w": 383,
-  "h": 831,
+  "w": 339,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5269,8 +5031,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-106.webp",
   "thumb": "images/catalogue/laminated/lm-106-sm.webp",
-  "w": 383,
-  "h": 831,
+  "w": 336,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5286,8 +5048,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-107.webp",
   "thumb": "images/catalogue/laminated/lm-107-sm.webp",
-  "w": 383,
-  "h": 831,
+  "w": 338,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5303,8 +5065,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-108.webp",
   "thumb": "images/catalogue/laminated/lm-108-sm.webp",
-  "w": 383,
-  "h": 831,
+  "w": 340,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5320,8 +5082,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-109.webp",
   "thumb": "images/catalogue/laminated/lm-109-sm.webp",
-  "w": 383,
-  "h": 831,
+  "w": 337,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5337,8 +5099,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-110.webp",
   "thumb": "images/catalogue/laminated/lm-110-sm.webp",
-  "w": 383,
-  "h": 831,
+  "w": 333,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5354,8 +5116,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-111.webp",
   "thumb": "images/catalogue/laminated/lm-111-sm.webp",
-  "w": 383,
-  "h": 831,
+  "w": 336,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5371,8 +5133,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Pre-laminated doors",
   "image": "images/catalogue/laminated/lm-112.webp",
   "thumb": "images/catalogue/laminated/lm-112-sm.webp",
-  "w": 383,
-  "h": 831,
+  "w": 342,
+  "h": 763,
   "details": [
    [
     "Design",
@@ -5388,8 +5150,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-113.webp",
   "thumb": "images/catalogue/laminated/lm-113-sm.webp",
-  "w": 332,
-  "h": 727,
+  "w": 358,
+  "h": 785,
   "details": []
  },
  {
@@ -5400,8 +5162,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-114.webp",
   "thumb": "images/catalogue/laminated/lm-114-sm.webp",
-  "w": 398,
-  "h": 784,
+  "w": 374,
+  "h": 785,
   "details": []
  },
  {
@@ -5412,8 +5174,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-115.webp",
   "thumb": "images/catalogue/laminated/lm-115-sm.webp",
-  "w": 242,
-  "h": 425,
+  "w": 374,
+  "h": 785,
   "details": []
  },
  {
@@ -5424,8 +5186,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-116.webp",
   "thumb": "images/catalogue/laminated/lm-116-sm.webp",
-  "w": 289,
-  "h": 581,
+  "w": 356,
+  "h": 785,
   "details": []
  },
  {
@@ -5436,8 +5198,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-117.webp",
   "thumb": "images/catalogue/laminated/lm-117-sm.webp",
-  "w": 324,
-  "h": 579,
+  "w": 422,
+  "h": 868,
   "details": []
  },
  {
@@ -5448,8 +5210,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-118.webp",
   "thumb": "images/catalogue/laminated/lm-118-sm.webp",
-  "w": 249,
-  "h": 561,
+  "w": 423,
+  "h": 869,
   "details": []
  },
  {
@@ -5460,8 +5222,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-119.webp",
   "thumb": "images/catalogue/laminated/lm-119-sm.webp",
-  "w": 333,
-  "h": 729,
+  "w": 423,
+  "h": 852,
   "details": []
  },
  {
@@ -5472,8 +5234,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-120.webp",
   "thumb": "images/catalogue/laminated/lm-120-sm.webp",
-  "w": 259,
-  "h": 566,
+  "w": 422,
+  "h": 869,
   "details": []
  },
  {
@@ -5484,8 +5246,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-121.webp",
   "thumb": "images/catalogue/laminated/lm-121-sm.webp",
-  "w": 336,
-  "h": 735,
+  "w": 516,
+  "h": 769,
   "details": []
  },
  {
@@ -5496,8 +5258,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-122.webp",
   "thumb": "images/catalogue/laminated/lm-122-sm.webp",
-  "w": 414,
-  "h": 821,
+  "w": 508,
+  "h": 768,
   "details": []
  },
  {
@@ -5508,8 +5270,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-123.webp",
   "thumb": "images/catalogue/laminated/lm-123-sm.webp",
-  "w": 390,
-  "h": 769,
+  "w": 508,
+  "h": 771,
   "details": []
  },
  {
@@ -5520,8 +5282,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-124.webp",
   "thumb": "images/catalogue/laminated/lm-124-sm.webp",
-  "w": 389,
-  "h": 769,
+  "w": 512,
+  "h": 768,
   "details": []
  },
  {
@@ -5532,7 +5294,7 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-125.webp",
   "thumb": "images/catalogue/laminated/lm-125-sm.webp",
-  "w": 390,
+  "w": 510,
   "h": 769,
   "details": []
  },
@@ -5544,8 +5306,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-126.webp",
   "thumb": "images/catalogue/laminated/lm-126-sm.webp",
-  "w": 390,
-  "h": 769,
+  "w": 511,
+  "h": 771,
   "details": []
  },
  {
@@ -5556,8 +5318,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-127.webp",
   "thumb": "images/catalogue/laminated/lm-127-sm.webp",
-  "w": 390,
-  "h": 769,
+  "w": 513,
+  "h": 772,
   "details": []
  },
  {
@@ -5568,8 +5330,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-128.webp",
   "thumb": "images/catalogue/laminated/lm-128-sm.webp",
-  "w": 389,
-  "h": 768,
+  "w": 512,
+  "h": 772,
   "details": []
  },
  {
@@ -5580,8 +5342,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-129.webp",
   "thumb": "images/catalogue/laminated/lm-129-sm.webp",
-  "w": 390,
-  "h": 770,
+  "w": 512,
+  "h": 760,
   "details": []
  },
  {
@@ -5592,8 +5354,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-130.webp",
   "thumb": "images/catalogue/laminated/lm-130-sm.webp",
-  "w": 391,
-  "h": 770,
+  "w": 518,
+  "h": 765,
   "details": []
  },
  {
@@ -5604,8 +5366,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-131.webp",
   "thumb": "images/catalogue/laminated/lm-131-sm.webp",
-  "w": 391,
-  "h": 770,
+  "w": 510,
+  "h": 765,
   "details": []
  },
  {
@@ -5616,8 +5378,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Steel-rod inlay doors",
   "image": "images/catalogue/laminated/lm-132.webp",
   "thumb": "images/catalogue/laminated/lm-132-sm.webp",
-  "w": 389,
-  "h": 768,
+  "w": 510,
+  "h": 767,
   "details": []
  },
  {
@@ -5628,8 +5390,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded veneer & melamine doors",
   "image": "images/catalogue/skin/sk-113.webp",
   "thumb": "images/catalogue/skin/sk-113-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -5645,8 +5407,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded veneer & melamine doors",
   "image": "images/catalogue/skin/sk-114.webp",
   "thumb": "images/catalogue/skin/sk-114-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -5662,8 +5424,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded veneer & melamine doors",
   "image": "images/catalogue/skin/sk-115.webp",
   "thumb": "images/catalogue/skin/sk-115-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -5679,8 +5441,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded veneer & melamine doors",
   "image": "images/catalogue/skin/sk-116.webp",
   "thumb": "images/catalogue/skin/sk-116-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -5696,8 +5458,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded veneer & melamine doors",
   "image": "images/catalogue/skin/sk-117.webp",
   "thumb": "images/catalogue/skin/sk-117-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -5713,8 +5475,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded veneer & melamine doors",
   "image": "images/catalogue/skin/sk-118.webp",
   "thumb": "images/catalogue/skin/sk-118-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -5730,8 +5492,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded veneer & melamine doors",
   "image": "images/catalogue/skin/sk-119.webp",
   "thumb": "images/catalogue/skin/sk-119-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -5747,8 +5509,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded veneer & melamine doors",
   "image": "images/catalogue/skin/sk-120.webp",
   "thumb": "images/catalogue/skin/sk-120-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -5764,8 +5526,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded veneer & melamine doors",
   "image": "images/catalogue/skin/sk-121.webp",
   "thumb": "images/catalogue/skin/sk-121-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -5781,8 +5543,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Moulded veneer & melamine doors",
   "image": "images/catalogue/skin/sk-122.webp",
   "thumb": "images/catalogue/skin/sk-122-sm.webp",
-  "w": 332,
-  "h": 769,
+  "w": 1036,
+  "h": 2400,
   "details": [
    [
     "Design",
@@ -5798,8 +5560,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Glass doors",
   "image": "images/catalogue/skin/sk-123.webp",
   "thumb": "images/catalogue/skin/sk-123-sm.webp",
-  "w": 379,
-  "h": 821,
+  "w": 1108,
+  "h": 2400,
   "details": [
    [
     "Type",
@@ -5815,8 +5577,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Glass doors",
   "image": "images/catalogue/skin/sk-124.webp",
   "thumb": "images/catalogue/skin/sk-124-sm.webp",
-  "w": 379,
-  "h": 821,
+  "w": 1108,
+  "h": 2400,
   "details": [
    [
     "Type",
@@ -5832,8 +5594,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Glass doors",
   "image": "images/catalogue/skin/sk-125.webp",
   "thumb": "images/catalogue/skin/sk-125-sm.webp",
-  "w": 379,
-  "h": 821,
+  "w": 1108,
+  "h": 2400,
   "details": [
    [
     "Type",
@@ -5849,8 +5611,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Glass doors",
   "image": "images/catalogue/skin/sk-126.webp",
   "thumb": "images/catalogue/skin/sk-126-sm.webp",
-  "w": 379,
-  "h": 821,
+  "w": 1108,
+  "h": 2400,
   "details": [
    [
     "Type",
@@ -5866,8 +5628,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Glass doors",
   "image": "images/catalogue/skin/sk-127.webp",
   "thumb": "images/catalogue/skin/sk-127-sm.webp",
-  "w": 379,
-  "h": 821,
+  "w": 1108,
+  "h": 2400,
   "details": [
    [
     "Type",
@@ -5883,8 +5645,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane glass doors",
   "image": "images/catalogue/membrane/mb-173.webp",
   "thumb": "images/catalogue/membrane/mb-173-sm.webp",
-  "w": 332,
-  "h": 752,
+  "w": 515,
+  "h": 760,
   "details": [
    [
     "Type",
@@ -5900,8 +5662,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane glass doors",
   "image": "images/catalogue/membrane/mb-174.webp",
   "thumb": "images/catalogue/membrane/mb-174-sm.webp",
-  "w": 332,
-  "h": 751,
+  "w": 510,
+  "h": 768,
   "details": [
    [
     "Type",
@@ -5917,8 +5679,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane glass doors",
   "image": "images/catalogue/membrane/mb-175.webp",
   "thumb": "images/catalogue/membrane/mb-175-sm.webp",
-  "w": 332,
-  "h": 751,
+  "w": 518,
+  "h": 766,
   "details": [
    [
     "Type",
@@ -5934,8 +5696,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane glass doors",
   "image": "images/catalogue/membrane/mb-176.webp",
   "thumb": "images/catalogue/membrane/mb-176-sm.webp",
-  "w": 332,
-  "h": 751,
+  "w": 511,
+  "h": 767,
   "details": [
    [
     "Type",
@@ -5951,8 +5713,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Membrane glass doors",
   "image": "images/catalogue/membrane/mb-177.webp",
   "thumb": "images/catalogue/membrane/mb-177-sm.webp",
-  "w": 332,
-  "h": 751,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Type",
@@ -5968,8 +5730,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "White primer doors",
   "image": "images/catalogue/designer/dw-101.webp",
   "thumb": "images/catalogue/designer/dw-101-sm.webp",
-  "w": 332,
-  "h": 725,
+  "w": 849,
+  "h": 1853,
   "details": []
  },
  {
@@ -5980,8 +5742,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "White primer doors",
   "image": "images/catalogue/designer/dw-102.webp",
   "thumb": "images/catalogue/designer/dw-102-sm.webp",
-  "w": 367,
-  "h": 793,
+  "w": 852,
+  "h": 1846,
   "details": []
  },
  {
@@ -5992,8 +5754,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "White primer doors",
   "image": "images/catalogue/designer/dw-103.webp",
   "thumb": "images/catalogue/designer/dw-103-sm.webp",
-  "w": 332,
-  "h": 727,
+  "w": 848,
+  "h": 1855,
   "details": []
  },
  {
@@ -6004,8 +5766,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "White primer doors",
   "image": "images/catalogue/designer/dw-104.webp",
   "thumb": "images/catalogue/designer/dw-104-sm.webp",
-  "w": 366,
-  "h": 790,
+  "w": 852,
+  "h": 1846,
   "details": []
  },
  {
@@ -6016,8 +5778,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "White primer doors",
   "image": "images/catalogue/designer/dw-105.webp",
   "thumb": "images/catalogue/designer/dw-105-sm.webp",
-  "w": 332,
-  "h": 720,
+  "w": 852,
+  "h": 1846,
   "details": []
  },
  {
@@ -6028,8 +5790,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "White primer doors",
   "image": "images/catalogue/designer/dw-106.webp",
   "thumb": "images/catalogue/designer/dw-106-sm.webp",
-  "w": 332,
-  "h": 723,
+  "w": 851,
+  "h": 1849,
   "details": []
  },
  {
@@ -6040,8 +5802,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "White primer doors",
   "image": "images/catalogue/designer/dw-107.webp",
   "thumb": "images/catalogue/designer/dw-107-sm.webp",
-  "w": 332,
-  "h": 721,
+  "w": 850,
+  "h": 1850,
   "details": []
  },
  {
@@ -6052,8 +5814,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Painted doors",
   "image": "images/catalogue/designer/dw-108.webp",
   "thumb": "images/catalogue/designer/dw-108-sm.webp",
-  "w": 343,
-  "h": 688,
+  "w": 885,
+  "h": 1777,
   "details": []
  },
  {
@@ -6064,8 +5826,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Painted doors",
   "image": "images/catalogue/designer/dw-109.webp",
   "thumb": "images/catalogue/designer/dw-109-sm.webp",
-  "w": 236,
-  "h": 472,
+  "w": 887,
+  "h": 1774,
   "details": []
  },
  {
@@ -6076,8 +5838,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Painted doors",
   "image": "images/catalogue/designer/dw-110.webp",
   "thumb": "images/catalogue/designer/dw-110-sm.webp",
-  "w": 332,
-  "h": 687,
+  "w": 871,
+  "h": 1806,
   "details": []
  },
  {
@@ -6088,8 +5850,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Painted doors",
   "image": "images/catalogue/designer/dw-111.webp",
   "thumb": "images/catalogue/designer/dw-111-sm.webp",
-  "w": 235,
-  "h": 472,
+  "w": 884,
+  "h": 1779,
   "details": []
  },
  {
@@ -6100,8 +5862,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Painted doors",
   "image": "images/catalogue/designer/dw-112.webp",
   "thumb": "images/catalogue/designer/dw-112-sm.webp",
-  "w": 332,
-  "h": 688,
+  "w": 977,
+  "h": 1610,
   "details": []
  },
  {
@@ -6112,8 +5874,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany wood doors",
   "image": "images/catalogue/designer/dw-113.webp",
   "thumb": "images/catalogue/designer/dw-113-sm.webp",
-  "w": 822,
-  "h": 1055,
+  "w": 1106,
+  "h": 1422,
   "details": [
    [
     "Material",
@@ -6133,8 +5895,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany wood doors",
   "image": "images/catalogue/designer/dw-114.webp",
   "thumb": "images/catalogue/designer/dw-114-sm.webp",
-  "w": 822,
-  "h": 992,
+  "w": 1141,
+  "h": 1379,
   "details": [
    [
     "Material",
@@ -6154,8 +5916,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany wood doors",
   "image": "images/catalogue/designer/dw-115.webp",
   "thumb": "images/catalogue/designer/dw-115-sm.webp",
-  "w": 412,
-  "h": 751,
+  "w": 1024,
+  "h": 1535,
   "details": [
    [
     "Material",
@@ -6175,8 +5937,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany wood doors",
   "image": "images/catalogue/designer/dw-116.webp",
   "thumb": "images/catalogue/designer/dw-116-sm.webp",
-  "w": 412,
-  "h": 758,
+  "w": 1024,
+  "h": 1535,
   "details": [
    [
     "Material",
@@ -6196,8 +5958,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany base models",
   "image": "images/catalogue/designer/dw-117.webp",
   "thumb": "images/catalogue/designer/dw-117-sm.webp",
-  "w": 420,
-  "h": 795,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -6217,8 +5979,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany base models",
   "image": "images/catalogue/designer/dw-118.webp",
   "thumb": "images/catalogue/designer/dw-118-sm.webp",
-  "w": 425,
-  "h": 795,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -6238,8 +6000,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany base models",
   "image": "images/catalogue/designer/dw-119.webp",
   "thumb": "images/catalogue/designer/dw-119-sm.webp",
-  "w": 420,
-  "h": 795,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -6259,8 +6021,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany base models",
   "image": "images/catalogue/designer/dw-120.webp",
   "thumb": "images/catalogue/designer/dw-120-sm.webp",
-  "w": 415,
-  "h": 795,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -6280,8 +6042,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany base models",
   "image": "images/catalogue/designer/dw-121.webp",
   "thumb": "images/catalogue/designer/dw-121-sm.webp",
-  "w": 415,
-  "h": 795,
+  "w": 397,
+  "h": 877,
   "details": [
    [
     "Material",
@@ -6301,8 +6063,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany base models",
   "image": "images/catalogue/designer/dw-122.webp",
   "thumb": "images/catalogue/designer/dw-122-sm.webp",
-  "w": 530,
-  "h": 1010,
+  "w": 385,
+  "h": 890,
   "details": [
    [
     "Material",
@@ -6322,8 +6084,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany base models",
   "image": "images/catalogue/designer/dw-123.webp",
   "thumb": "images/catalogue/designer/dw-123-sm.webp",
-  "w": 525,
-  "h": 1010,
+  "w": 381,
+  "h": 869,
   "details": [
    [
     "Material",
@@ -6343,8 +6105,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany base models",
   "image": "images/catalogue/designer/dw-124.webp",
   "thumb": "images/catalogue/designer/dw-124-sm.webp",
-  "w": 525,
-  "h": 1010,
+  "w": 371,
+  "h": 867,
   "details": [
    [
     "Material",
@@ -6364,8 +6126,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany base models",
   "image": "images/catalogue/designer/dw-125.webp",
   "thumb": "images/catalogue/designer/dw-125-sm.webp",
-  "w": 530,
-  "h": 1010,
+  "w": 399,
+  "h": 895,
   "details": [
    [
     "Material",
@@ -6385,8 +6147,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany special double doors",
   "image": "images/catalogue/designer/dw-126.webp",
   "thumb": "images/catalogue/designer/dw-126-sm.webp",
-  "w": 510,
-  "h": 975,
+  "w": 333,
+  "h": 903,
   "details": [
    [
     "Material",
@@ -6406,8 +6168,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany special double doors",
   "image": "images/catalogue/designer/dw-127.webp",
   "thumb": "images/catalogue/designer/dw-127-sm.webp",
-  "w": 515,
-  "h": 975,
+  "w": 368,
+  "h": 887,
   "details": [
    [
     "Material",
@@ -6427,8 +6189,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany special double doors",
   "image": "images/catalogue/designer/dw-128.webp",
   "thumb": "images/catalogue/designer/dw-128-sm.webp",
-  "w": 515,
-  "h": 975,
+  "w": 385,
+  "h": 893,
   "details": [
    [
     "Material",
@@ -6448,8 +6210,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany special double doors",
   "image": "images/catalogue/designer/dw-129.webp",
   "thumb": "images/catalogue/designer/dw-129-sm.webp",
-  "w": 515,
-  "h": 975,
+  "w": 383,
+  "h": 898,
   "details": [
    [
     "Material",
@@ -6469,8 +6231,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany special double doors",
   "image": "images/catalogue/designer/dw-130.webp",
   "thumb": "images/catalogue/designer/dw-130-sm.webp",
-  "w": 510,
-  "h": 975,
+  "w": 368,
+  "h": 897,
   "details": [
    [
     "Material",
@@ -6490,8 +6252,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany special double doors",
   "image": "images/catalogue/designer/dw-131.webp",
   "thumb": "images/catalogue/designer/dw-131-sm.webp",
-  "w": 510,
-  "h": 975,
+  "w": 381,
+  "h": 917,
   "details": [
    [
     "Material",
@@ -6511,8 +6273,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany special double doors",
   "image": "images/catalogue/designer/dw-132.webp",
   "thumb": "images/catalogue/designer/dw-132-sm.webp",
-  "w": 510,
-  "h": 975,
+  "w": 387,
+  "h": 890,
   "details": [
    [
     "Material",
@@ -6532,8 +6294,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany special double doors",
   "image": "images/catalogue/designer/dw-133.webp",
   "thumb": "images/catalogue/designer/dw-133-sm.webp",
-  "w": 510,
-  "h": 975,
+  "w": 602,
+  "h": 939,
   "details": [
    [
     "Material",
@@ -6553,8 +6315,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Mahogany special double doors",
   "image": "images/catalogue/designer/dw-134.webp",
   "thumb": "images/catalogue/designer/dw-134-sm.webp",
-  "w": 515,
-  "h": 975,
+  "w": 599,
+  "h": 928,
   "details": [
    [
     "Material",
@@ -6574,8 +6336,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-101.webp",
   "thumb": "images/catalogue/frp/fr-101-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 632,
+  "h": 598,
   "details": [
    [
     "Front finish",
@@ -6603,8 +6365,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-102.webp",
   "thumb": "images/catalogue/frp/fr-102-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 591,
+  "h": 599,
   "details": [
    [
     "Front finish",
@@ -6632,8 +6394,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-103.webp",
   "thumb": "images/catalogue/frp/fr-103-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 622,
+  "h": 600,
   "details": [
    [
     "Front finish",
@@ -6661,8 +6423,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-104.webp",
   "thumb": "images/catalogue/frp/fr-104-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 622,
+  "h": 613,
   "details": [
    [
     "Front finish",
@@ -6690,8 +6452,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-105.webp",
   "thumb": "images/catalogue/frp/fr-105-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 610,
+  "h": 624,
   "details": [
    [
     "Front finish",
@@ -6719,8 +6481,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-106.webp",
   "thumb": "images/catalogue/frp/fr-106-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 605,
+  "h": 615,
   "details": [
    [
     "Front finish",
@@ -6748,8 +6510,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-107.webp",
   "thumb": "images/catalogue/frp/fr-107-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 602,
+  "h": 609,
   "details": [
    [
     "Front finish",
@@ -6777,8 +6539,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-108.webp",
   "thumb": "images/catalogue/frp/fr-108-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 605,
+  "h": 594,
   "details": [
    [
     "Front finish",
@@ -6806,8 +6568,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-109.webp",
   "thumb": "images/catalogue/frp/fr-109-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 616,
+  "h": 621,
   "details": [
    [
     "Front finish",
@@ -6835,8 +6597,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-110.webp",
   "thumb": "images/catalogue/frp/fr-110-sm.webp",
-  "w": 264,
-  "h": 274,
+  "w": 627,
+  "h": 630,
   "details": [
    [
     "Front finish",
@@ -6864,8 +6626,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-111.webp",
   "thumb": "images/catalogue/frp/fr-111-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 624,
+  "h": 613,
   "details": [
    [
     "Front finish",
@@ -6893,8 +6655,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-112.webp",
   "thumb": "images/catalogue/frp/fr-112-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 613,
+  "h": 601,
   "details": [
    [
     "Front finish",
@@ -6922,8 +6684,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-113.webp",
   "thumb": "images/catalogue/frp/fr-113-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 613,
+  "h": 635,
   "details": [
    [
     "Front finish",
@@ -6951,8 +6713,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-114.webp",
   "thumb": "images/catalogue/frp/fr-114-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 605,
+  "h": 622,
   "details": [
    [
     "Front finish",
@@ -6980,8 +6742,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-115.webp",
   "thumb": "images/catalogue/frp/fr-115-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 608,
+  "h": 607,
   "details": [
    [
     "Front finish",
@@ -7009,8 +6771,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-116.webp",
   "thumb": "images/catalogue/frp/fr-116-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 617,
+  "h": 607,
   "details": [
    [
     "Front finish",
@@ -7038,8 +6800,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-117.webp",
   "thumb": "images/catalogue/frp/fr-117-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 616,
+  "h": 624,
   "details": [
    [
     "Front finish",
@@ -7067,8 +6829,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-118.webp",
   "thumb": "images/catalogue/frp/fr-118-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 608,
+  "h": 599,
   "details": [
    [
     "Front finish",
@@ -7096,8 +6858,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-119.webp",
   "thumb": "images/catalogue/frp/fr-119-sm.webp",
-  "w": 257,
-  "h": 274,
+  "w": 605,
+  "h": 618,
   "details": [
    [
     "Front finish",
@@ -7125,8 +6887,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-120.webp",
   "thumb": "images/catalogue/frp/fr-120-sm.webp",
-  "w": 257,
-  "h": 286,
+  "w": 619,
+  "h": 613,
   "details": [
    [
     "Front finish",
@@ -7154,8 +6916,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-121.webp",
   "thumb": "images/catalogue/frp/fr-121-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 616,
+  "h": 616,
   "details": [
    [
     "Height",
@@ -7179,8 +6941,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-122.webp",
   "thumb": "images/catalogue/frp/fr-122-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 607,
+  "h": 613,
   "details": [
    [
     "Height",
@@ -7204,8 +6966,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-123.webp",
   "thumb": "images/catalogue/frp/fr-123-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 621,
+  "h": 610,
   "details": [
    [
     "Height",
@@ -7229,8 +6991,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-124.webp",
   "thumb": "images/catalogue/frp/fr-124-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 605,
+  "h": 613,
   "details": [
    [
     "Height",
@@ -7254,8 +7016,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-125.webp",
   "thumb": "images/catalogue/frp/fr-125-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 616,
+  "h": 616,
   "details": [
    [
     "Height",
@@ -7279,8 +7041,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-126.webp",
   "thumb": "images/catalogue/frp/fr-126-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 607,
+  "h": 604,
   "details": [
    [
     "Height",
@@ -7304,8 +7066,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-127.webp",
   "thumb": "images/catalogue/frp/fr-127-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 615,
+  "h": 612,
   "details": [
    [
     "Height",
@@ -7329,8 +7091,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-128.webp",
   "thumb": "images/catalogue/frp/fr-128-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 623,
+  "h": 615,
   "details": [
    [
     "Height",
@@ -7354,8 +7116,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-129.webp",
   "thumb": "images/catalogue/frp/fr-129-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 611,
+  "h": 605,
   "details": [
    [
     "Height",
@@ -7379,8 +7141,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-130.webp",
   "thumb": "images/catalogue/frp/fr-130-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 619,
+  "h": 622,
   "details": [
    [
     "Height",
@@ -7404,8 +7166,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-131.webp",
   "thumb": "images/catalogue/frp/fr-131-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 608,
+  "h": 602,
   "details": [
    [
     "Height",
@@ -7429,8 +7191,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-132.webp",
   "thumb": "images/catalogue/frp/fr-132-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 613,
+  "h": 624,
   "details": [
    [
     "Height",
@@ -7454,8 +7216,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-133.webp",
   "thumb": "images/catalogue/frp/fr-133-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 608,
+  "h": 619,
   "details": [
    [
     "Height",
@@ -7479,8 +7241,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-134.webp",
   "thumb": "images/catalogue/frp/fr-134-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 1150,
+  "h": 1200,
   "details": [
    [
     "Height",
@@ -7504,8 +7266,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-135.webp",
   "thumb": "images/catalogue/frp/fr-135-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 610,
+  "h": 612,
   "details": [
    [
     "Height",
@@ -7529,8 +7291,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-136.webp",
   "thumb": "images/catalogue/frp/fr-136-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 605,
+  "h": 612,
   "details": [
    [
     "Height",
@@ -7554,8 +7316,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-137.webp",
   "thumb": "images/catalogue/frp/fr-137-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 1254,
+  "h": 1254,
   "details": [
    [
     "Height",
@@ -7579,8 +7341,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-138.webp",
   "thumb": "images/catalogue/frp/fr-138-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 612,
+  "h": 619,
   "details": [
    [
     "Height",
@@ -7604,8 +7366,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-139.webp",
   "thumb": "images/catalogue/frp/fr-139-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 627,
+  "h": 621,
   "details": [
    [
     "Height",
@@ -7629,8 +7391,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP designer doors",
   "image": "images/catalogue/frp/fr-140.webp",
   "thumb": "images/catalogue/frp/fr-140-sm.webp",
-  "w": 232,
-  "h": 242,
+  "w": 1150,
+  "h": 1200,
   "details": [
    [
     "Height",
@@ -7654,8 +7416,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-141.webp",
   "thumb": "images/catalogue/frp/fr-141-sm.webp",
-  "w": 127,
-  "h": 244,
+  "w": 315,
+  "h": 752,
   "details": [
    [
     "Type",
@@ -7675,8 +7437,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-142.webp",
   "thumb": "images/catalogue/frp/fr-142-sm.webp",
-  "w": 128,
-  "h": 244,
+  "w": 292,
+  "h": 713,
   "details": [
    [
     "Type",
@@ -7696,8 +7458,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-143.webp",
   "thumb": "images/catalogue/frp/fr-143-sm.webp",
-  "w": 117,
-  "h": 244,
+  "w": 309,
+  "h": 751,
   "details": [
    [
     "Type",
@@ -7717,8 +7479,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-144.webp",
   "thumb": "images/catalogue/frp/fr-144-sm.webp",
-  "w": 116,
-  "h": 244,
+  "w": 321,
+  "h": 740,
   "details": [
    [
     "Type",
@@ -7738,8 +7500,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-145.webp",
   "thumb": "images/catalogue/frp/fr-145-sm.webp",
-  "w": 117,
-  "h": 244,
+  "w": 868,
+  "h": 1811,
   "details": [
    [
     "Type",
@@ -7759,8 +7521,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-146.webp",
   "thumb": "images/catalogue/frp/fr-146-sm.webp",
-  "w": 118,
-  "h": 244,
+  "w": 580,
+  "h": 1200,
   "details": [
    [
     "Type",
@@ -7780,8 +7542,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-147.webp",
   "thumb": "images/catalogue/frp/fr-147-sm.webp",
-  "w": 117,
-  "h": 244,
+  "w": 480,
+  "h": 819,
   "details": [
    [
     "Type",
@@ -7801,8 +7563,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-148.webp",
   "thumb": "images/catalogue/frp/fr-148-sm.webp",
-  "w": 117,
-  "h": 244,
+  "w": 469,
+  "h": 819,
   "details": [
    [
     "Type",
@@ -7822,8 +7584,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-149.webp",
   "thumb": "images/catalogue/frp/fr-149-sm.webp",
-  "w": 118,
-  "h": 244,
+  "w": 472,
+  "h": 819,
   "details": [
    [
     "Type",
@@ -7843,8 +7605,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-150.webp",
   "thumb": "images/catalogue/frp/fr-150-sm.webp",
-  "w": 117,
-  "h": 244,
+  "w": 447,
+  "h": 819,
   "details": [
    [
     "Type",
@@ -7864,8 +7626,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-151.webp",
   "thumb": "images/catalogue/frp/fr-151-sm.webp",
-  "w": 118,
-  "h": 244,
+  "w": 457,
+  "h": 804,
   "details": [
    [
     "Type",
@@ -7885,8 +7647,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-152.webp",
   "thumb": "images/catalogue/frp/fr-152-sm.webp",
-  "w": 119,
-  "h": 244,
+  "w": 431,
+  "h": 819,
   "details": [
    [
     "Type",
@@ -7906,8 +7668,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-153.webp",
   "thumb": "images/catalogue/frp/fr-153-sm.webp",
-  "w": 118,
-  "h": 244,
+  "w": 464,
+  "h": 794,
   "details": [
    [
     "Type",
@@ -7927,8 +7689,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-154.webp",
   "thumb": "images/catalogue/frp/fr-154-sm.webp",
-  "w": 119,
-  "h": 244,
+  "w": 465,
+  "h": 808,
   "details": [
    [
     "Type",
@@ -7948,8 +7710,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-155.webp",
   "thumb": "images/catalogue/frp/fr-155-sm.webp",
-  "w": 119,
-  "h": 244,
+  "w": 445,
+  "h": 794,
   "details": [
    [
     "Type",
@@ -7969,8 +7731,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-156.webp",
   "thumb": "images/catalogue/frp/fr-156-sm.webp",
-  "w": 118,
-  "h": 244,
+  "w": 464,
+  "h": 801,
   "details": [
    [
     "Type",
@@ -7990,8 +7752,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-157.webp",
   "thumb": "images/catalogue/frp/fr-157-sm.webp",
-  "w": 118,
-  "h": 244,
+  "w": 464,
+  "h": 786,
   "details": [
    [
     "Type",
@@ -8011,8 +7773,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP glass doors",
   "image": "images/catalogue/frp/fr-158.webp",
   "thumb": "images/catalogue/frp/fr-158-sm.webp",
-  "w": 117,
-  "h": 244,
+  "w": 868,
+  "h": 1811,
   "details": [
    [
     "Type",
@@ -8032,8 +7794,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-201.webp",
   "thumb": "images/catalogue/frp/fr-201-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 443,
+  "h": 801,
   "details": [
    [
     "Use",
@@ -8049,8 +7811,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-202.webp",
   "thumb": "images/catalogue/frp/fr-202-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 460,
+  "h": 801,
   "details": [
    [
     "Use",
@@ -8066,8 +7828,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-203.webp",
   "thumb": "images/catalogue/frp/fr-203-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 471,
+  "h": 794,
   "details": [
    [
     "Use",
@@ -8083,8 +7845,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-204.webp",
   "thumb": "images/catalogue/frp/fr-204-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 450,
+  "h": 790,
   "details": [
    [
     "Use",
@@ -8100,8 +7862,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-205.webp",
   "thumb": "images/catalogue/frp/fr-205-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 471,
+  "h": 804,
   "details": [
    [
     "Use",
@@ -8117,8 +7879,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-206.webp",
   "thumb": "images/catalogue/frp/fr-206-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 475,
+  "h": 808,
   "details": [
    [
     "Use",
@@ -8134,8 +7896,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-207.webp",
   "thumb": "images/catalogue/frp/fr-207-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 467,
+  "h": 808,
   "details": [
    [
     "Use",
@@ -8151,8 +7913,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-208.webp",
   "thumb": "images/catalogue/frp/fr-208-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 446,
+  "h": 801,
   "details": [
    [
     "Use",
@@ -8168,8 +7930,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-209.webp",
   "thumb": "images/catalogue/frp/fr-209-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 446,
+  "h": 801,
   "details": [
    [
     "Use",
@@ -8185,8 +7947,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-210.webp",
   "thumb": "images/catalogue/frp/fr-210-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 453,
+  "h": 790,
   "details": [
    [
     "Use",
@@ -8202,8 +7964,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-211.webp",
   "thumb": "images/catalogue/frp/fr-211-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 461,
+  "h": 790,
   "details": [
    [
     "Use",
@@ -8219,8 +7981,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP bedroom doors",
   "image": "images/catalogue/frp/fr-212.webp",
   "thumb": "images/catalogue/frp/fr-212-sm.webp",
-  "w": 78,
-  "h": 158,
+  "w": 464,
+  "h": 801,
   "details": [
    [
     "Use",
@@ -8236,8 +7998,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-213.webp",
   "thumb": "images/catalogue/frp/fr-213-sm.webp",
-  "w": 71,
-  "h": 158,
+  "w": 479,
+  "h": 801,
   "details": [
    [
     "Use",
@@ -8253,8 +8015,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-214.webp",
   "thumb": "images/catalogue/frp/fr-214-sm.webp",
-  "w": 70,
-  "h": 158,
+  "w": 475,
+  "h": 804,
   "details": [
    [
     "Use",
@@ -8270,8 +8032,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-215.webp",
   "thumb": "images/catalogue/frp/fr-215-sm.webp",
-  "w": 71,
-  "h": 158,
+  "w": 442,
+  "h": 790,
   "details": [
    [
     "Use",
@@ -8287,8 +8049,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-216.webp",
   "thumb": "images/catalogue/frp/fr-216-sm.webp",
-  "w": 71,
-  "h": 158,
+  "w": 457,
+  "h": 819,
   "details": [
    [
     "Use",
@@ -8304,8 +8066,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-217.webp",
   "thumb": "images/catalogue/frp/fr-217-sm.webp",
-  "w": 71,
-  "h": 158,
+  "w": 460,
+  "h": 799,
   "details": [
    [
     "Use",
@@ -8321,8 +8083,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-218.webp",
   "thumb": "images/catalogue/frp/fr-218-sm.webp",
-  "w": 70,
-  "h": 158,
+  "w": 445,
+  "h": 803,
   "details": [
    [
     "Use",
@@ -8338,8 +8100,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-219.webp",
   "thumb": "images/catalogue/frp/fr-219-sm.webp",
-  "w": 71,
-  "h": 158,
+  "w": 460,
+  "h": 814,
   "details": [
    [
     "Use",
@@ -8355,8 +8117,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-220.webp",
   "thumb": "images/catalogue/frp/fr-220-sm.webp",
-  "w": 71,
-  "h": 158,
+  "w": 464,
+  "h": 821,
   "details": [
    [
     "Use",
@@ -8372,8 +8134,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-221.webp",
   "thumb": "images/catalogue/frp/fr-221-sm.webp",
-  "w": 70,
-  "h": 158,
+  "w": 323,
+  "h": 790,
   "details": [
    [
     "Use",
@@ -8389,8 +8151,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-222.webp",
   "thumb": "images/catalogue/frp/fr-222-sm.webp",
-  "w": 71,
-  "h": 158,
+  "w": 327,
+  "h": 793,
   "details": [
    [
     "Use",
@@ -8406,8 +8168,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-223.webp",
   "thumb": "images/catalogue/frp/fr-223-sm.webp",
-  "w": 71,
-  "h": 158,
+  "w": 320,
+  "h": 786,
   "details": [
    [
     "Use",
@@ -8423,8 +8185,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-224.webp",
   "thumb": "images/catalogue/frp/fr-224-sm.webp",
-  "w": 71,
-  "h": 158,
+  "w": 326,
+  "h": 769,
   "details": [
    [
     "Use",
@@ -8440,8 +8202,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-225.webp",
   "thumb": "images/catalogue/frp/fr-225-sm.webp",
-  "w": 70,
-  "h": 158,
+  "w": 319,
+  "h": 767,
   "details": [
    [
     "Use",
@@ -8457,8 +8219,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "FRP base model doors",
   "image": "images/catalogue/frp/fr-226.webp",
   "thumb": "images/catalogue/frp/fr-226-sm.webp",
-  "w": 71,
-  "h": 158,
+  "w": 335,
+  "h": 798,
   "details": [
    [
     "Use",
@@ -8477,8 +8239,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Colours",
   "image": "images/catalogue/upvc/up-colours.webp",
   "thumb": "images/catalogue/upvc/up-colours-sm.webp",
-  "w": 2400,
-  "h": 2240
+  "w": 1536,
+  "h": 1024
  },
  {
   "slug": "up-prof-c",
@@ -8532,8 +8294,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-101-p.webp",
   "thumb": "images/catalogue/aluminium/al-101-p-sm.webp",
-  "w": 449,
-  "h": 435
+  "w": 1254,
+  "h": 1254
  },
  {
   "slug": "al-102-p",
@@ -8543,8 +8305,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-102-p.webp",
   "thumb": "images/catalogue/aluminium/al-102-p-sm.webp",
-  "w": 329,
-  "h": 393
+  "w": 1254,
+  "h": 1254
  },
  {
   "slug": "al-103-p",
@@ -8554,8 +8316,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-103-p.webp",
   "thumb": "images/catalogue/aluminium/al-103-p-sm.webp",
-  "w": 488,
-  "h": 484
+  "w": 1254,
+  "h": 1254
  },
  {
   "slug": "al-104-p",
@@ -8565,8 +8327,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-104-p.webp",
   "thumb": "images/catalogue/aluminium/al-104-p-sm.webp",
-  "w": 407,
-  "h": 385
+  "w": 1254,
+  "h": 1254
  },
  {
   "slug": "al-105-p",
@@ -8576,8 +8338,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-105-p.webp",
   "thumb": "images/catalogue/aluminium/al-105-p-sm.webp",
-  "w": 450,
-  "h": 450
+  "w": 1254,
+  "h": 1254
  },
  {
   "slug": "al-106-p",
@@ -8587,8 +8349,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-106-p.webp",
   "thumb": "images/catalogue/aluminium/al-106-p-sm.webp",
-  "w": 469,
-  "h": 360
+  "w": 1536,
+  "h": 1024
  },
  {
   "slug": "al-107-p",
@@ -8598,8 +8360,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-107-p.webp",
   "thumb": "images/catalogue/aluminium/al-107-p-sm.webp",
-  "w": 452,
-  "h": 477
+  "w": 1254,
+  "h": 1254
  },
  {
   "slug": "al-108-p",
@@ -8609,8 +8371,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-108-p.webp",
   "thumb": "images/catalogue/aluminium/al-108-p-sm.webp",
-  "w": 489,
-  "h": 488
+  "w": 1254,
+  "h": 1254
  },
  {
   "slug": "al-110-p",
@@ -8620,8 +8382,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-110-p.webp",
   "thumb": "images/catalogue/aluminium/al-110-p-sm.webp",
-  "w": 306,
-  "h": 429
+  "w": 1059,
+  "h": 1485
  },
  {
   "slug": "al-111-p",
@@ -8631,8 +8393,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-111-p.webp",
   "thumb": "images/catalogue/aluminium/al-111-p-sm.webp",
-  "w": 488,
-  "h": 410
+  "w": 1254,
+  "h": 1254
  },
  {
   "slug": "al-112-p",
@@ -8642,8 +8404,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-112-p.webp",
   "thumb": "images/catalogue/aluminium/al-112-p-sm.webp",
-  "w": 395,
-  "h": 488
+  "w": 1128,
+  "h": 1394
  },
  {
   "slug": "al-113-p",
@@ -8653,8 +8415,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Profile sections",
   "image": "images/catalogue/aluminium/al-113-p.webp",
   "thumb": "images/catalogue/aluminium/al-113-p-sm.webp",
-  "w": 428,
-  "h": 461
+  "w": 1254,
+  "h": 1254
  },
  {
   "slug": "al-colours",
@@ -8664,8 +8426,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Colours",
   "image": "images/catalogue/aluminium/al-colours.webp",
   "thumb": "images/catalogue/aluminium/al-colours-sm.webp",
-  "w": 1800,
-  "h": 2320
+  "w": 1588,
+  "h": 2086
  },
  {
   "slug": "mb-sh1",
@@ -8730,8 +8492,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Mahogany wood doors",
   "image": "images/catalogue/designer/dw-custom.webp",
   "thumb": "images/catalogue/designer/dw-custom-sm.webp",
-  "w": 2059,
-  "h": 2038
+  "w": 1254,
+  "h": 1254
  },
  {
   "slug": "fr-gl33",
@@ -8741,8 +8503,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Glass designs",
   "image": "images/catalogue/frp/fr-gl33.webp",
   "thumb": "images/catalogue/frp/fr-gl33-sm.webp",
-  "w": 730,
-  "h": 786
+  "w": 1290,
+  "h": 1219
  },
  {
   "slug": "fr-gl34",
@@ -8807,8 +8569,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Glass designs",
   "image": "images/catalogue/frp/fr-gl39.webp",
   "thumb": "images/catalogue/frp/fr-gl39-sm.webp",
-  "w": 749,
-  "h": 786
+  "w": 1299,
+  "h": 1211
  },
  {
   "slug": "fr-gl40",
@@ -8818,8 +8580,8 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Glass designs",
   "image": "images/catalogue/frp/fr-gl40.webp",
   "thumb": "images/catalogue/frp/fr-gl40-sm.webp",
-  "w": 451,
-  "h": 786
+  "w": 1193,
+  "h": 1319
  },
  {
   "slug": "fr-spec",
@@ -8829,7 +8591,7 @@ export const GENERATED_REFERENCES: CatalogueItem[] = [
   "sub": "Specifications",
   "image": "images/catalogue/frp/fr-spec.webp",
   "thumb": "images/catalogue/frp/fr-spec-sm.webp",
-  "w": 1984,
-  "h": 1524
+  "w": 1431,
+  "h": 1099
  }
 ];

@@ -46,7 +46,7 @@ const isPhone = () => window.matchMedia('(max-width: 560px)').matches;
 
 /** Extra words visitors use for a range, on top of its slug and short name. */
 const CATEGORY_WORDS: Record<string, string[]> = {
-  upvc: ['pvc', 'u-pvc', 'abs', 'abs door', 'abs doors', 'ventilator', 'ventilators', 'louver', 'louvre'],
+  upvc: ['pvc', 'u-pvc', 'ventilator', 'ventilators', 'louver', 'louvre'],
   aluminium: ['aluminum', 'alu', 'facade', 'curtain wall', 'partition', 'partitions', 'wardrobe', 'wardrobes'],
   wpc: ['wood plastic', 'wpc frame', 'wpc frames'],
   steel: ['metal door', 'metal doors', 'iron', 'iron door', 'srk'],

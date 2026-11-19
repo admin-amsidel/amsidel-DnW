@@ -81,7 +81,7 @@ export const AMI = {
     {
       q: 'Which doors are best for bathrooms?',
       keywords: ['bathroom', 'bathrooms', 'toilet', 'wet area', 'waterproof', 'water proof', 'washroom'],
-      a: 'For bathrooms we recommend FRP (fibre) doors, WPC doors or the ABS doors in our uPVC range. They are waterproof and will not swell, rot or attract termites.',
+      a: 'For bathrooms we recommend FRP (fibre) doors or WPC doors. They are waterproof and will not swell, rot or attract termites.',
     },
     {
       q: 'Which windows keep out noise and dust?',
