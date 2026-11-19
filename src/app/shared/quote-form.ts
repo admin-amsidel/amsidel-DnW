@@ -148,11 +148,12 @@ export class QuoteForm implements OnInit {
         phone: formatPhone(v.country, v.phone),
         email: v.email,
         details: [
-          { label: 'Location', value: v.city },
-          { label: 'Interested in', value: v.product || 'Not sure yet' },
+          { label: 'City', value: v.city },
+          { label: 'Enquiry about', value: v.product || 'Not sure yet' },
           ...(this.productName() ? [{ label: 'Product', value: this.productName() }] : []),
         ],
         message: v.message,
+        messageLabel: 'Tell us about your project',
         honey: this.honey().nativeElement.value,
       });
       this.state.set('sent');

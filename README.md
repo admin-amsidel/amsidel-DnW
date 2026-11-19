@@ -31,15 +31,16 @@ Until the three keys below are filled in, the forms and the chat show "couldn't 
 fallback links.
 
 1. Create a free account at <https://www.emailjs.com> (200 emails a month on the free plan).
-2. **Email Services → Add New Service**: connect the inbox that sends the mail (e.g. Gmail for info.amsidel@gmail.com).
+2. **Email Services → Add New Service**: connect the inbox that sends the mail (e.g. Gmail for amsidelenterprises@gmail.com).
    Copy the **Service ID**.
 3. **Email Templates → Create New Template**:
    - **Subject:** `{{subject}}`
-   - **To Email:** the inbox that should receive enquiries (e.g. `info.amsidel@gmail.com`)
+   - **To Email:** the inbox that should receive enquiries (e.g. `amsidelenterprises@gmail.com`)
    - **Reply To:** `{{reply_to}}` (the visitor's email when they gave one)
    - **From Name:** `Amsidel Website`
-   - **Content:** switch the editor to code view and use `{{{content_html}}}` (three braces, so the HTML table renders).
-     For a plain-text template use `{{content_text}}` instead.
+   - **Content:** Edit Content → code view (`</>`), delete everything and put only `{{{content_html}}}` (three
+     braces). The website builds the whole mail (header, Call/WhatsApp buttons, details table, footer) in
+     `src/app/shared/enquiry.ts`. For a plain-text template use `{{content_text}}` instead.
 
    Save and copy the **Template ID**.
 4. **Account → General**: copy the **Public Key**. Under **Account → Security**, add your website's domain to the

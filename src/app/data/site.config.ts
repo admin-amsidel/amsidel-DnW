@@ -12,14 +12,14 @@ export const SITE = {
   // shown as plain text only (no mailto link); email links and buttons use `altEmail`
   email: 'info@amsidel.com',
   // second address shown next to `email`, and the one every "email us" link opens
-  altEmail: 'info.amsidel@gmail.com',
+  altEmail: 'amsidelenterprises@gmail.com',
   // Website enquiries (quote form, site-visit form, AMI chat) are emailed straight from the browser through EmailJS
   // (https://www.emailjs.com, free plan: 200 emails a month); there is no backend. The inbox they go to is set in the
   // EmailJS template, not here. Setup steps: README.md > "Enquiry emails". See shared/enquiry.ts.
   emailjs: {
-    serviceId: '', // Email Services > your service's ID, e.g. 'service_ab12cd3'
-    templateId: '', // Email Templates > your template's ID, e.g. 'template_x9y8z7'
-    publicKey: '', // Account > General > Public Key (safe to publish; lock it to your domain in Account > Security)
+    serviceId: 'service_gw4if4q', // Email Services > your service's ID, e.g. 'service_ab12cd3'
+    templateId: 'template_zzctiis', // Email Templates > your template's ID, e.g. 'template_x9y8z7'
+    publicKey: 'nXntR4Y95VKQ89ppL', // Account > General > Public Key (safe to publish; lock it to your domain in Account > Security)
   },
   phone: '+91 79072 31647', // company and support line (AMI chat uses it too)
   // WhatsApp Business number, digits only with country code. The WhatsApp button next to the AMI chat uses it.

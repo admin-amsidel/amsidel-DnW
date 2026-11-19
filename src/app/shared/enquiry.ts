@@ -15,6 +15,8 @@ export interface Enquiry {
   /** Label and value rows, in order. Empty values are left out. */
   details: { label: string; value: string }[];
   message?: string;
+  /** Label of the message row in the mail; 'Message' when not set. */
+  messageLabel?: string;
   transcript?: { visitor: boolean; text: string }[];
   /** Hidden form field: people leave it empty, bots fill it in. */
   honey?: string;
@@ -95,34 +97,42 @@ export async function sendEnquiry(enquiry: Enquiry): Promise<void> {
 /** The variables the EmailJS template can use. */
 function templateParams(e: Enquiry): Record<string, string> {
   const kind = KIND_LABEL[e.kind];
+  const title = `Enquiry from ${e.name}`;
   const email = e.email?.trim() ?? '';
+  const message = e.message?.trim() ?? '';
+  // every field gets a row so the team sees what the visitor left blank; the message row only when the form has one
   const rows: [string, string][] = [
     ['Name', e.name],
     ['Phone', e.phone],
-    ...(email ? [['Email', email] as [string, string]] : []),
-    ...e.details.filter((d) => d.value?.trim()).map((d) => [d.label, d.value.trim()] as [string, string]),
+    ...(e.kind === 'CHAT' && !email ? [] : [['Email', email || '—'] as [string, string]]),
+    ...e.details.map((d) => [d.label, d.value?.trim() || '—'] as [string, string]),
+    ...(e.message !== undefined ? [[e.messageLabel ?? 'Message', message || '—'] as [string, string]] : []),
   ];
   const sentAt = new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata', dateStyle: 'medium', timeStyle: 'short' });
   const page = typeof window === 'undefined' ? '' : window.location.href;
-  const message = e.message?.trim() ?? '';
   const transcript = (e.transcript ?? []).map((t) => `${t.visitor ? e.name || 'Visitor' : 'AMI'}: ${t.text}`).join('\n');
 
   const text = [
+    title,
     `${kind}${e.headline ? ' – ' + e.headline : ''}`,
     '',
     ...rows.map(([k, v]) => `${k}: ${v}`),
-    ...(message ? ['', 'Message:', message] : []),
     ...(transcript ? ['', 'Chat transcript:', transcript] : []),
     '',
     `Sent ${sentAt} from ${page}`,
   ].join('\n');
 
+  const phoneDigits = e.phone.replace(/\D/g, '');
+  const contentHtml = html({ kind, title, headline: e.headline ?? '', rows, transcript: e.transcript ?? [], name: e.name, email, phoneDigits, phone: e.phone, sentAt, page });
+
   return {
-    subject: `${kind}: ${e.name}${e.headline ? ' – ' + e.headline : ''}`,
+    subject: title,
     kind,
     headline: e.headline ?? '',
     from_name: e.name,
     phone: e.phone,
+    // digits only with country code, for tel: and wa.me links
+    phone_digits: phoneDigits,
     reply_to: email,
     details_text: rows.map(([k, v]) => `${k}: ${v}`).join('\n'),
     message,
@@ -130,45 +140,86 @@ function templateParams(e: Enquiry): Record<string, string> {
     page,
     sent_at: sentAt,
     content_text: text,
-    content_html: html(kind, e.headline ?? '', rows, message, e.transcript ?? [], e.name, sentAt, page),
+    // the whole mail, ready to send: the EmailJS template's content only needs {{{content_html}}}
+    content_html: contentHtml,
+    // same values under the names EmailJS's default "Contact Us" template uses, so even that one fills in
+    name: e.name,
+    email,
+    title,
+    time: sentAt,
   };
 }
 
-function html(
-  kind: string,
-  headline: string,
-  rows: [string, string][],
-  message: string,
-  transcript: { visitor: boolean; text: string }[],
-  name: string,
-  sentAt: string,
-  page: string,
-): string {
-  const td = 'padding:8px 12px;border-bottom:1px solid #eee;vertical-align:top;font:14px/1.5 Arial,sans-serif';
-  const block = (title: string, body: string) =>
-    `<h3 style="margin:24px 0 8px;font:600 15px Arial,sans-serif;color:#111">${title}</h3>${body}`;
+interface MailParts {
+  kind: string;
+  title: string;
+  headline: string;
+  rows: [string, string][];
+  transcript: { visitor: boolean; text: string }[];
+  name: string;
+  email: string;
+  phone: string;
+  phoneDigits: string;
+  sentAt: string;
+  page: string;
+}
+
+const GOLD = '#8f6d38';
+const FONT = 'Arial,Helvetica,sans-serif';
+
+/** The complete branded mail. Inline styles and tables only, so Gmail, Outlook and phone mail apps show it alike. */
+function html(m: MailParts): string {
+  const td = `padding:10px 14px;border-bottom:1px solid #eee6d8;vertical-align:top;font:14px/1.5 ${FONT}`;
+  const button = (href: string, label: string, bg: string) =>
+    `<td style="padding:0 8px 8px 0"><a href="${esc(href)}" style="display:inline-block;padding:10px 18px;background:${bg};color:#ffffff;text-decoration:none;border-radius:4px;font:600 14px ${FONT}">${esc(label)}</a></td>`;
+  const buttons = [
+    m.phoneDigits ? button(`tel:+${m.phoneDigits}`, `Call ${m.phone}`, GOLD) : '',
+    m.phoneDigits ? button(`https://wa.me/${m.phoneDigits}`, 'WhatsApp', '#25d366') : '',
+    m.email ? button(`mailto:${m.email}`, 'Email customer', '#1c1a17') : '',
+  ].join('');
+  const transcript = m.transcript.length
+    ? `<h3 style="margin:24px 0 8px;font:600 15px ${FONT};color:#111">Chat transcript</h3>` +
+      m.transcript
+        .map(
+          (t) =>
+            `<p style="margin:0 0 6px;font:14px/1.5 ${FONT}"><b style="color:${t.visitor ? '#111' : GOLD}">${esc(t.visitor ? m.name || 'Visitor' : 'AMI')}:</b> <span style="white-space:pre-line">${esc(t.text)}</span></p>`,
+        )
+        .join('')
+    : '';
+
   return [
-    `<div style="max-width:640px;font:14px/1.5 Arial,sans-serif;color:#222">`,
-    `<p style="margin:0;font:600 12px Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:#8f6d38">${esc(kind)}</p>`,
-    headline ? `<h2 style="margin:4px 0 16px;font:600 20px Arial,sans-serif;color:#111">${esc(headline)}</h2>` : '',
-    `<table style="border-collapse:collapse;width:100%">`,
-    ...rows.map(
-      ([k, v]) => `<tr><td style="${td};width:150px;color:#666">${esc(k)}</td><td style="${td};color:#111"><b>${esc(v)}</b></td></tr>`,
+    `<div style="margin:0;padding:24px 12px;background:#f4f1ec;font-family:${FONT}">`,
+    `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:640px;margin:0 auto;background:#ffffff;border:1px solid #e6dfd3;border-radius:8px;overflow:hidden">`,
+    // header
+    `<tr><td style="background:#1c1a17;padding:22px 28px">`,
+    `<p style="margin:0;font:700 18px ${FONT};color:#ffffff;letter-spacing:.04em">AMSIDEL</p>`,
+    `<p style="margin:2px 0 0;font:12px ${FONT};color:#c9a96e;letter-spacing:.14em;text-transform:uppercase">Doors &amp; Windows</p>`,
+    `</td></tr>`,
+    `<tr><td style="height:4px;background:${GOLD};line-height:4px;font-size:0">&nbsp;</td></tr>`,
+    // title
+    `<tr><td style="padding:24px 28px 0">`,
+    `<p style="margin:0;font:600 12px ${FONT};letter-spacing:.12em;text-transform:uppercase;color:${GOLD}">${esc(m.kind)}${m.headline ? ' · ' + esc(m.headline) : ''}</p>`,
+    `<h2 style="margin:6px 0 4px;font:600 22px ${FONT};color:#111">${esc(m.title)}</h2>`,
+    `<p style="margin:0;font:14px/1.5 ${FONT};color:#555">A new enquiry has come in through the website. Please respond at the earliest.</p>`,
+    `</td></tr>`,
+    // quick actions
+    buttons ? `<tr><td style="padding:18px 28px 0"><table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>${buttons}</tr></table></td></tr>` : '',
+    // details
+    `<tr><td style="padding:18px 28px 0">`,
+    `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;border:1px solid #eee6d8">`,
+    ...m.rows.map(
+      ([k, v], i) =>
+        `<tr style="background:${i % 2 ? '#ffffff' : '#faf8f4'}"><td style="${td};width:38%;color:#666">${esc(k)}</td><td style="${td};color:#111;white-space:pre-line"><b>${esc(v)}</b></td></tr>`,
     ),
     `</table>`,
-    message ? block('Message', `<p style="margin:0;white-space:pre-line">${esc(message)}</p>`) : '',
-    transcript.length
-      ? block(
-          'Chat transcript',
-          transcript
-            .map(
-              (t) =>
-                `<p style="margin:0 0 6px"><b style="color:${t.visitor ? '#111' : '#8f6d38'}">${esc(t.visitor ? name || 'Visitor' : 'AMI')}:</b> <span style="white-space:pre-line">${esc(t.text)}</span></p>`,
-            )
-            .join(''),
-        )
-      : '',
-    `<p style="margin:24px 0 0;color:#888;font-size:12px">Sent ${esc(sentAt)} from ${esc(page)}</p>`,
+    transcript,
+    `</td></tr>`,
+    // footer
+    `<tr><td style="padding:24px 28px 0">&nbsp;</td></tr>`,
+    `<tr><td style="padding:16px 28px;background:#faf8f4;border-top:1px solid #eee6d8">`,
+    `<p style="margin:0;font:12px/1.5 ${FONT};color:#999">Sent automatically from the Amsidel website · ${esc(m.sentAt)}${m.page ? `<br>Page: ${esc(m.page)}` : ''}</p>`,
+    `</td></tr>`,
+    `</table>`,
     `</div>`,
   ].join('');
 }
