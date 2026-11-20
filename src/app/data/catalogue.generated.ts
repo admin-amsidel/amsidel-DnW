@@ -934,8 +934,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-101.webp",
   "thumb": "images/catalogue/wpc/wp-101-sm.webp",
-  "w": 1715,
-  "h": 2240,
+  "w": 1098,
+  "h": 1433,
   "details": [
    [
     "Material",
@@ -955,8 +955,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-102.webp",
   "thumb": "images/catalogue/wpc/wp-102-sm.webp",
-  "w": 945,
-  "h": 1785,
+  "w": 1086,
+  "h": 1448,
   "details": [
    [
     "Material",
@@ -976,8 +976,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-103.webp",
   "thumb": "images/catalogue/wpc/wp-103-sm.webp",
-  "w": 945,
-  "h": 1785,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -997,8 +997,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-104.webp",
   "thumb": "images/catalogue/wpc/wp-104-sm.webp",
-  "w": 791,
-  "h": 1134,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1018,8 +1018,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-105.webp",
   "thumb": "images/catalogue/wpc/wp-105-sm.webp",
-  "w": 791,
-  "h": 1134,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1039,8 +1039,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-106.webp",
   "thumb": "images/catalogue/wpc/wp-106-sm.webp",
-  "w": 791,
-  "h": 1134,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1060,8 +1060,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-107.webp",
   "thumb": "images/catalogue/wpc/wp-107-sm.webp",
-  "w": 791,
-  "h": 1134,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1081,8 +1081,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-108.webp",
   "thumb": "images/catalogue/wpc/wp-108-sm.webp",
-  "w": 791,
-  "h": 1134,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1102,8 +1102,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-109.webp",
   "thumb": "images/catalogue/wpc/wp-109-sm.webp",
-  "w": 791,
-  "h": 1134,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1123,8 +1123,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-110.webp",
   "thumb": "images/catalogue/wpc/wp-110-sm.webp",
-  "w": 791,
-  "h": 1134,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1144,8 +1144,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-111.webp",
   "thumb": "images/catalogue/wpc/wp-111-sm.webp",
-  "w": 791,
-  "h": 1134,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1165,8 +1165,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-112.webp",
   "thumb": "images/catalogue/wpc/wp-112-sm.webp",
-  "w": 269,
-  "h": 393,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1186,8 +1186,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-113.webp",
   "thumb": "images/catalogue/wpc/wp-113-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1207,8 +1207,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-114.webp",
   "thumb": "images/catalogue/wpc/wp-114-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1228,8 +1228,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-115.webp",
   "thumb": "images/catalogue/wpc/wp-115-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1249,8 +1249,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-116.webp",
   "thumb": "images/catalogue/wpc/wp-116-sm.webp",
-  "w": 233,
-  "h": 340,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1270,8 +1270,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-117.webp",
   "thumb": "images/catalogue/wpc/wp-117-sm.webp",
-  "w": 233,
-  "h": 340,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1291,8 +1291,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-118.webp",
   "thumb": "images/catalogue/wpc/wp-118-sm.webp",
-  "w": 233,
-  "h": 340,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1312,8 +1312,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-119.webp",
   "thumb": "images/catalogue/wpc/wp-119-sm.webp",
-  "w": 234,
-  "h": 344,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1333,8 +1333,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-120.webp",
   "thumb": "images/catalogue/wpc/wp-120-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1354,8 +1354,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-121.webp",
   "thumb": "images/catalogue/wpc/wp-121-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1375,8 +1375,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-122.webp",
   "thumb": "images/catalogue/wpc/wp-122-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1396,8 +1396,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-123.webp",
   "thumb": "images/catalogue/wpc/wp-123-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1417,8 +1417,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-124.webp",
   "thumb": "images/catalogue/wpc/wp-124-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1438,8 +1438,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-125.webp",
   "thumb": "images/catalogue/wpc/wp-125-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1459,8 +1459,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-126.webp",
   "thumb": "images/catalogue/wpc/wp-126-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1480,8 +1480,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC doors",
   "image": "images/catalogue/wpc/wp-127.webp",
   "thumb": "images/catalogue/wpc/wp-127-sm.webp",
-  "w": 813,
-  "h": 1190,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1501,8 +1501,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC windows",
   "image": "images/catalogue/wpc/wp-201.webp",
   "thumb": "images/catalogue/wpc/wp-201-sm.webp",
-  "w": 280,
-  "h": 390,
+  "w": 1062,
+  "h": 1480,
   "details": [
    [
     "Material",
@@ -1518,8 +1518,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC windows",
   "image": "images/catalogue/wpc/wp-202.webp",
   "thumb": "images/catalogue/wpc/wp-202-sm.webp",
-  "w": 333,
-  "h": 386,
+  "w": 1199,
+  "h": 1312,
   "details": [
    [
     "Material",
@@ -1535,8 +1535,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC windows",
   "image": "images/catalogue/wpc/wp-203.webp",
   "thumb": "images/catalogue/wpc/wp-203-sm.webp",
-  "w": 278,
-  "h": 490,
+  "w": 1024,
+  "h": 1536,
   "details": [
    [
     "Material",
@@ -1552,8 +1552,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC windows",
   "image": "images/catalogue/wpc/wp-204.webp",
   "thumb": "images/catalogue/wpc/wp-204-sm.webp",
-  "w": 398,
-  "h": 228,
+  "w": 1672,
+  "h": 941,
   "details": [
    [
     "Material",
@@ -1569,8 +1569,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC windows",
   "image": "images/catalogue/wpc/wp-205.webp",
   "thumb": "images/catalogue/wpc/wp-205-sm.webp",
-  "w": 155,
-  "h": 385,
+  "w": 808,
+  "h": 1945,
   "details": [
    [
     "Material",
@@ -1586,8 +1586,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC windows",
   "image": "images/catalogue/wpc/wp-206.webp",
   "thumb": "images/catalogue/wpc/wp-206-sm.webp",
-  "w": 397,
-  "h": 388,
+  "w": 1254,
+  "h": 1254,
   "details": [
    [
     "Material",
@@ -1603,8 +1603,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC windows",
   "image": "images/catalogue/wpc/wp-207.webp",
   "thumb": "images/catalogue/wpc/wp-207-sm.webp",
-  "w": 285,
-  "h": 228,
+  "w": 1402,
+  "h": 1122,
   "details": [
    [
     "Material",
@@ -1620,8 +1620,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC windows",
   "image": "images/catalogue/wpc/wp-208.webp",
   "thumb": "images/catalogue/wpc/wp-208-sm.webp",
-  "w": 598,
-  "h": 501,
+  "w": 1370,
+  "h": 1148,
   "details": [
    [
     "Material",
@@ -1637,8 +1637,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC windows",
   "image": "images/catalogue/wpc/wp-209.webp",
   "thumb": "images/catalogue/wpc/wp-209-sm.webp",
-  "w": 289,
-  "h": 423,
+  "w": 1036,
+  "h": 1518,
   "details": [
    [
     "Material",
@@ -1654,8 +1654,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "WPC windows",
   "image": "images/catalogue/wpc/wp-210.webp",
   "thumb": "images/catalogue/wpc/wp-210-sm.webp",
-  "w": 1276,
-  "h": 708,
+  "w": 1684,
+  "h": 934,
   "details": []
  },
  {
@@ -1666,8 +1666,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Frames, sheets & shutters",
   "image": "images/catalogue/wpc/wp-301.webp",
   "thumb": "images/catalogue/wpc/wp-301-sm.webp",
-  "w": 440,
-  "h": 798,
+  "w": 931,
+  "h": 1593,
   "details": [
    [
     "Density",
@@ -1683,8 +1683,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Frames, sheets & shutters",
   "image": "images/catalogue/wpc/wp-302.webp",
   "thumb": "images/catalogue/wpc/wp-302-sm.webp",
-  "w": 1588,
-  "h": 1718,
+  "w": 1254,
+  "h": 1254,
   "details": []
  },
  {
@@ -1695,8 +1695,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Frames, sheets & shutters",
   "image": "images/catalogue/wpc/wp-303.webp",
   "thumb": "images/catalogue/wpc/wp-303-sm.webp",
-  "w": 2400,
-  "h": 1552,
+  "w": 1560,
+  "h": 1008,
   "details": [
    [
     "Density",
@@ -1712,8 +1712,8 @@ export const GENERATED_PRODUCTS: CatalogueItem[] = [
   "sub": "Frames, sheets & shutters",
   "image": "images/catalogue/wpc/wp-304.webp",
   "thumb": "images/catalogue/wpc/wp-304-sm.webp",
-  "w": 2400,
-  "h": 768,
+  "w": 2170,
+  "h": 725,
   "details": [
    [
     "Density",

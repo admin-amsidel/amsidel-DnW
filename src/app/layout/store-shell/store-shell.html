@@ -174,8 +174,8 @@
           <li><a [href]="tel"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h4l2 5-2.5 1.5a11 11 0 0 0 5 5L16 12l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 4 5a2 2 0 0 1 2-2Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" /></svg>{{ site.phone }}</a></li>
         }
         <li><span class="contact-text"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16v12H4z M4 7l8 6 8-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" /></svg>{{ site.email }}</span></li>
-        <li><a [href]="'mailto:' + site.altEmail"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16v12H4z M4 7l8 6 8-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" /></svg>{{ site.altEmail }}</a></li>
-        <li>{{ site.website }}</li>
+        <li><a [href]="'mailto:' + site.altEmail"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16v12H4z M4 7l8 6 8-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" /></svg><span>{{ altEmailUser }}<wbr />&#64;{{ altEmailDomain }}</span></a></li>
+        <li><a [href]="'https://' + site.website">{{ site.website }}</a></li>
         <li>{{ site.hours }}</li>
       </ul>
     </div>

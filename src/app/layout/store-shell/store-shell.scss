@@ -593,7 +593,8 @@
 
 .footer__grid {
   display: grid;
-  grid-template-columns: 1.4fr repeat(4, 1fr);
+  // the last column ("Get in touch") gets the most room so the email addresses fit on one line
+  grid-template-columns: 1.3fr 1fr 1fr 0.8fr 1.5fr;
   gap: 40px;
   padding-block: 72px 48px;
 }
@@ -614,7 +615,8 @@
 }
 
 .footer__contact li {
-  overflow-wrap: anywhere;
+  // wrap long addresses only where the template allows it (before the @), never in the middle of a word
+  overflow-wrap: break-word;
 }
 
 .footer__contact a,

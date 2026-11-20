@@ -72,7 +72,7 @@ import { QuoteForm } from '../../shared/quote-form';
               <span class="ic" aria-hidden="true">
                 <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8" /><path d="M3.5 12h17M12 3.5c2.5 2.6 2.5 14.4 0 17M12 3.5c-2.5 2.6-2.5 14.4 0 17" fill="none" stroke="currentColor" stroke-width="1.4" /></svg>
               </span>
-              <div><strong>Website</strong><span>{{ site.website }}</span></div>
+              <div><strong>Website</strong><a [href]="'https://' + site.website">{{ site.website }}</a></div>
             </li>
           </ul>
         </div>

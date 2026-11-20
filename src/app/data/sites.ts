@@ -16,7 +16,7 @@ const PRODUCTION = {
 
 /** On your own computer: `npm start` in each project (Doors & Windows on 4200, Group on 4201). */
 const LOCAL = {
-  group: 'http://localhost:4201',
+  group: 'https://www.amsidel.com',
   doorsWindows: 'https://www.doors-windows.amsidel.com',
 };
 

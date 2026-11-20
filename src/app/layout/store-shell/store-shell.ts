@@ -24,6 +24,9 @@ import { CREDITS } from '../../shared/credits';
 })
 export class StoreShell {
   protected readonly site = SITE;
+  /** The email split at the @, so a narrow footer column can wrap it there instead of mid-word. */
+  protected readonly altEmailUser = SITE.altEmail.split('@')[0];
+  protected readonly altEmailDomain = SITE.altEmail.slice(SITE.altEmail.indexOf('@') + 1);
   /** The Amsidel Group website. */
   protected readonly groupUrl = SITES.group;
   protected readonly year = new Date().getFullYear();
